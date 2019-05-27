@@ -1,0 +1,2453 @@
+Site,Vol,Prob,Type,NUMBERO
+Weibull Not Metered 3-Lane,0,0,Weilbull,1
+Weibull Not Metered 3-Lane,10,8.12E-46,Weilbull,1
+Weibull Not Metered 3-Lane,20,4.85E-40,Weilbull,1
+Weibull Not Metered 3-Lane,30,1.16E-36,Weilbull,1
+Weibull Not Metered 3-Lane,40,2.89E-34,Weilbull,1
+Weibull Not Metered 3-Lane,50,2.09E-32,Weilbull,1
+Weibull Not Metered 3-Lane,60,6.92E-31,Weilbull,1
+Weibull Not Metered 3-Lane,70,1.33E-29,Weilbull,1
+Weibull Not Metered 3-Lane,80,1.73E-28,Weilbull,1
+Weibull Not Metered 3-Lane,90,1.65E-27,Weilbull,1
+Weibull Not Metered 3-Lane,100,1.25E-26,Weilbull,1
+Weibull Not Metered 3-Lane,110,7.78E-26,Weilbull,1
+Weibull Not Metered 3-Lane,120,4.13E-25,Weilbull,1
+Weibull Not Metered 3-Lane,130,1.92E-24,Weilbull,1
+Weibull Not Metered 3-Lane,140,7.95E-24,Weilbull,1
+Weibull Not Metered 3-Lane,150,2.99E-23,Weilbull,1
+Weibull Not Metered 3-Lane,160,1.03E-22,Weilbull,1
+Weibull Not Metered 3-Lane,170,3.30E-22,Weilbull,1
+Weibull Not Metered 3-Lane,180,9.88E-22,Weilbull,1
+Weibull Not Metered 3-Lane,190,2.79E-21,Weilbull,1
+Weibull Not Metered 3-Lane,200,7.46E-21,Weilbull,1
+Weibull Not Metered 3-Lane,210,1.90E-20,Weilbull,1
+Weibull Not Metered 3-Lane,220,4.64E-20,Weilbull,1
+Weibull Not Metered 3-Lane,230,1.09E-19,Weilbull,1
+Weibull Not Metered 3-Lane,240,2.46E-19,Weilbull,1
+Weibull Not Metered 3-Lane,250,5.39E-19,Weilbull,1
+Weibull Not Metered 3-Lane,260,1.14E-18,Weilbull,1
+Weibull Not Metered 3-Lane,270,2.36E-18,Weilbull,1
+Weibull Not Metered 3-Lane,280,4.75E-18,Weilbull,1
+Weibull Not Metered 3-Lane,290,9.31E-18,Weilbull,1
+Weibull Not Metered 3-Lane,300,1.78E-17,Weilbull,1
+Weibull Not Metered 3-Lane,310,3.35E-17,Weilbull,1
+Weibull Not Metered 3-Lane,320,6.15E-17,Weilbull,1
+Weibull Not Metered 3-Lane,330,1.11E-16,Weilbull,1
+Weibull Not Metered 3-Lane,340,1.97E-16,Weilbull,1
+Weibull Not Metered 3-Lane,350,3.43E-16,Weilbull,1
+Weibull Not Metered 3-Lane,360,5.89E-16,Weilbull,1
+Weibull Not Metered 3-Lane,370,9.97E-16,Weilbull,1
+Weibull Not Metered 3-Lane,380,1.66E-15,Weilbull,1
+Weibull Not Metered 3-Lane,390,2.74E-15,Weilbull,1
+Weibull Not Metered 3-Lane,400,4.45E-15,Weilbull,1
+Weibull Not Metered 3-Lane,410,7.15E-15,Weilbull,1
+Weibull Not Metered 3-Lane,420,1.14E-14,Weilbull,1
+Weibull Not Metered 3-Lane,430,1.78E-14,Weilbull,1
+Weibull Not Metered 3-Lane,440,2.77E-14,Weilbull,1
+Weibull Not Metered 3-Lane,450,4.26E-14,Weilbull,1
+Weibull Not Metered 3-Lane,460,6.50E-14,Weilbull,1
+Weibull Not Metered 3-Lane,470,9.82E-14,Weilbull,1
+Weibull Not Metered 3-Lane,480,1.47E-13,Weilbull,1
+Weibull Not Metered 3-Lane,490,2.19E-13,Weilbull,1
+Weibull Not Metered 3-Lane,500,3.22E-13,Weilbull,1
+Weibull Not Metered 3-Lane,510,4.71E-13,Weilbull,1
+Weibull Not Metered 3-Lane,520,6.83E-13,Weilbull,1
+Weibull Not Metered 3-Lane,530,9.85E-13,Weilbull,1
+Weibull Not Metered 3-Lane,540,1.41E-12,Weilbull,1
+Weibull Not Metered 3-Lane,550,2.00E-12,Weilbull,1
+Weibull Not Metered 3-Lane,560,2.83E-12,Weilbull,1
+Weibull Not Metered 3-Lane,570,3.98E-12,Weilbull,1
+Weibull Not Metered 3-Lane,580,5.55E-12,Weilbull,1
+Weibull Not Metered 3-Lane,590,7.71E-12,Weilbull,1
+Weibull Not Metered 3-Lane,600,1.06E-11,Weilbull,1
+Weibull Not Metered 3-Lane,610,1.46E-11,Weilbull,1
+Weibull Not Metered 3-Lane,620,2.00E-11,Weilbull,1
+Weibull Not Metered 3-Lane,630,2.71E-11,Weilbull,1
+Weibull Not Metered 3-Lane,640,3.67E-11,Weilbull,1
+Weibull Not Metered 3-Lane,650,4.94E-11,Weilbull,1
+Weibull Not Metered 3-Lane,660,6.63E-11,Weilbull,1
+Weibull Not Metered 3-Lane,670,8.84E-11,Weilbull,1
+Weibull Not Metered 3-Lane,680,1.18E-10,Weilbull,1
+Weibull Not Metered 3-Lane,690,1.56E-10,Weilbull,1
+Weibull Not Metered 3-Lane,700,2.05E-10,Weilbull,1
+Weibull Not Metered 3-Lane,710,2.69E-10,Weilbull,1
+Weibull Not Metered 3-Lane,720,3.52E-10,Weilbull,1
+Weibull Not Metered 3-Lane,730,4.58E-10,Weilbull,1
+Weibull Not Metered 3-Lane,740,5.95E-10,Weilbull,1
+Weibull Not Metered 3-Lane,750,7.70E-10,Weilbull,1
+Weibull Not Metered 3-Lane,760,9.93E-10,Weilbull,1
+Weibull Not Metered 3-Lane,770,1.28E-09,Weilbull,1
+Weibull Not Metered 3-Lane,780,1.63E-09,Weilbull,1
+Weibull Not Metered 3-Lane,790,2.09E-09,Weilbull,1
+Weibull Not Metered 3-Lane,800,2.66E-09,Weilbull,1
+Weibull Not Metered 3-Lane,810,3.37E-09,Weilbull,1
+Weibull Not Metered 3-Lane,820,4.27E-09,Weilbull,1
+Weibull Not Metered 3-Lane,830,5.38E-09,Weilbull,1
+Weibull Not Metered 3-Lane,840,6.77E-09,Weilbull,1
+Weibull Not Metered 3-Lane,850,8.50E-09,Weilbull,1
+Weibull Not Metered 3-Lane,860,1.06E-08,Weilbull,1
+Weibull Not Metered 3-Lane,870,1.33E-08,Weilbull,1
+Weibull Not Metered 3-Lane,880,1.65E-08,Weilbull,1
+Weibull Not Metered 3-Lane,890,2.05E-08,Weilbull,1
+Weibull Not Metered 3-Lane,900,2.55E-08,Weilbull,1
+Weibull Not Metered 3-Lane,910,3.15E-08,Weilbull,1
+Weibull Not Metered 3-Lane,920,3.88E-08,Weilbull,1
+Weibull Not Metered 3-Lane,930,4.78E-08,Weilbull,1
+Weibull Not Metered 3-Lane,940,5.86E-08,Weilbull,1
+Weibull Not Metered 3-Lane,950,7.18E-08,Weilbull,1
+Weibull Not Metered 3-Lane,960,8.78E-08,Weilbull,1
+Weibull Not Metered 3-Lane,970,1.07E-07,Weilbull,1
+Weibull Not Metered 3-Lane,980,1.30E-07,Weilbull,1
+Weibull Not Metered 3-Lane,990,1.58E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1000,1.92E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1010,2.33E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1020,2.81E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1030,3.39E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1040,4.08E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1050,4.90E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1060,5.88E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1070,7.04E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1080,8.42E-07,Weilbull,1
+Weibull Not Metered 3-Lane,1090,1.00E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1100,1.20E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1110,1.42E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1120,1.69E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1130,2.01E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1140,2.37E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1150,2.81E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1160,3.32E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1170,3.91E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1180,4.60E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1190,5.41E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1200,6.35E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1210,7.45E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1220,8.72E-06,Weilbull,1
+Weibull Not Metered 3-Lane,1230,1.02E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1240,1.19E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1250,1.39E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1260,1.62E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1270,1.89E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1280,2.19E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1290,2.54E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1300,2.95E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1310,3.42E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1320,3.96E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1330,4.57E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1340,5.28E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1350,6.09E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1360,7.01E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1370,8.07E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1380,9.28E-05,Weilbull,1
+Weibull Not Metered 3-Lane,1390,0.000106606,Weilbull,1
+Weibull Not Metered 3-Lane,1400,0.000122325,Weilbull,1
+Weibull Not Metered 3-Lane,1410,0.000140223,Weilbull,1
+Weibull Not Metered 3-Lane,1420,0.000160585,Weilbull,1
+Weibull Not Metered 3-Lane,1430,0.000183728,Weilbull,1
+Weibull Not Metered 3-Lane,1440,0.000210009,Weilbull,1
+Weibull Not Metered 3-Lane,1450,0.000239828,Weilbull,1
+Weibull Not Metered 3-Lane,1460,0.00027363,Weilbull,1
+Weibull Not Metered 3-Lane,1470,0.000311914,Weilbull,1
+Weibull Not Metered 3-Lane,1480,0.000355238,Weilbull,1
+Weibull Not Metered 3-Lane,1490,0.000404224,Weilbull,1
+Weibull Not Metered 3-Lane,1500,0.000459567,Weilbull,1
+Weibull Not Metered 3-Lane,1510,0.000522039,Weilbull,1
+Weibull Not Metered 3-Lane,1520,0.000592503,Weilbull,1
+Weibull Not Metered 3-Lane,1530,0.000671916,Weilbull,1
+Weibull Not Metered 3-Lane,1540,0.000761346,Weilbull,1
+Weibull Not Metered 3-Lane,1550,0.000861975,Weilbull,1
+Weibull Not Metered 3-Lane,1560,0.000975119,Weilbull,1
+Weibull Not Metered 3-Lane,1570,0.001102238,Weilbull,1
+Weibull Not Metered 3-Lane,1580,0.001244949,Weilbull,1
+Weibull Not Metered 3-Lane,1590,0.001405045,Weilbull,1
+Weibull Not Metered 3-Lane,1600,0.00158451,Weilbull,1
+Weibull Not Metered 3-Lane,1610,0.00178554,Weilbull,1
+Weibull Not Metered 3-Lane,1620,0.002010562,Weilbull,1
+Weibull Not Metered 3-Lane,1630,0.002262258,Weilbull,1
+Weibull Not Metered 3-Lane,1640,0.002543587,Weilbull,1
+Weibull Not Metered 3-Lane,1650,0.002857815,Weilbull,1
+Weibull Not Metered 3-Lane,1660,0.00320854,Weilbull,1
+Weibull Not Metered 3-Lane,1670,0.003599728,Weilbull,1
+Weibull Not Metered 3-Lane,1680,0.004035741,Weilbull,1
+Weibull Not Metered 3-Lane,1690,0.004521378,Weilbull,1
+Weibull Not Metered 3-Lane,1700,0.005061912,Weilbull,1
+Weibull Not Metered 3-Lane,1710,0.005663132,Weilbull,1
+Weibull Not Metered 3-Lane,1720,0.00633139,Weilbull,1
+Weibull Not Metered 3-Lane,1730,0.007073651,Weilbull,1
+Weibull Not Metered 3-Lane,1740,0.007897538,Weilbull,1
+Weibull Not Metered 3-Lane,1750,0.008811399,Weilbull,1
+Weibull Not Metered 3-Lane,1760,0.009824354,Weilbull,1
+Weibull Not Metered 3-Lane,1770,0.010946368,Weilbull,1
+Weibull Not Metered 3-Lane,1780,0.012188312,Weilbull,1
+Weibull Not Metered 3-Lane,1790,0.013562035,Weilbull,1
+Weibull Not Metered 3-Lane,1800,0.015080437,Weilbull,1
+Weibull Not Metered 3-Lane,1810,0.016757546,Weilbull,1
+Weibull Not Metered 3-Lane,1820,0.018608598,Weilbull,1
+Weibull Not Metered 3-Lane,1830,0.020650121,Weilbull,1
+Weibull Not Metered 3-Lane,1840,0.022900018,Weilbull,1
+Weibull Not Metered 3-Lane,1850,0.025377651,Weilbull,1
+Weibull Not Metered 3-Lane,1860,0.028103934,Weilbull,1
+Weibull Not Metered 3-Lane,1870,0.031101409,Weilbull,1
+Weibull Not Metered 3-Lane,1880,0.034394338,Weilbull,1
+Weibull Not Metered 3-Lane,1890,0.038008777,Weilbull,1
+Weibull Not Metered 3-Lane,1900,0.04197265,Weilbull,1
+Weibull Not Metered 3-Lane,1910,0.046315816,Weilbull,1
+Weibull Not Metered 3-Lane,1920,0.051070118,Weilbull,1
+Weibull Not Metered 3-Lane,1930,0.056269426,Weilbull,1
+Weibull Not Metered 3-Lane,1940,0.06194965,Weilbull,1
+Weibull Not Metered 3-Lane,1950,0.068148736,Weilbull,1
+Weibull Not Metered 3-Lane,1960,0.074906633,Weilbull,1
+Weibull Not Metered 3-Lane,1970,0.08226522,Weilbull,1
+Weibull Not Metered 3-Lane,1980,0.090268196,Weilbull,1
+Weibull Not Metered 3-Lane,1990,0.098960909,Weilbull,1
+Weibull Not Metered 3-Lane,2000,0.108390143,Weilbull,1
+Weibull Not Metered 3-Lane,2010,0.118603819,Weilbull,1
+Weibull Not Metered 3-Lane,2020,0.129650632,Weilbull,1
+Weibull Not Metered 3-Lane,2030,0.14157959,Weilbull,1
+Weibull Not Metered 3-Lane,2040,0.154439464,Weilbull,1
+Weibull Not Metered 3-Lane,2050,0.168278115,Weilbull,1
+Weibull Not Metered 3-Lane,2060,0.183141718,Weilbull,1
+Weibull Not Metered 3-Lane,2070,0.199073845,Weilbull,1
+Weibull Not Metered 3-Lane,2080,0.216114419,Weilbull,1
+Weibull Not Metered 3-Lane,2090,0.234298528,Weilbull,1
+Weibull Not Metered 3-Lane,2100,0.253655098,Weilbull,1
+Weibull Not Metered 3-Lane,2110,0.274205431,Weilbull,1
+Weibull Not Metered 3-Lane,2120,0.295961615,Weilbull,1
+Weibull Not Metered 3-Lane,2130,0.318924837,Weilbull,1
+Weibull Not Metered 3-Lane,2140,0.343083605,Weilbull,1
+Weibull Not Metered 3-Lane,2150,0.368411945,Weilbull,1
+Weibull Not Metered 3-Lane,2160,0.394867597,Weilbull,1
+Weibull Not Metered 3-Lane,2170,0.42239031,Weilbull,1
+Weibull Not Metered 3-Lane,2180,0.450900276,Weilbull,1
+Weibull Not Metered 3-Lane,2190,0.480296835,Weilbull,1
+Weibull Not Metered 3-Lane,2200,0.510457539,Weilbull,1
+Weibull Not Metered 3-Lane,2210,0.5412377,Weilbull,1
+Weibull Not Metered 3-Lane,2220,0.572470542,Weilbull,1
+Weibull Not Metered 3-Lane,2230,0.603968103,Weilbull,1
+Weibull Not Metered 3-Lane,2240,0.635522972,Weilbull,1
+Weibull Not Metered 3-Lane,2250,0.666910995,Weilbull,1
+Weibull Not Metered 3-Lane,2260,0.69789499,Weilbull,1
+Weibull Not Metered 3-Lane,2270,0.728229503,Weilbull,1
+Weibull Not Metered 3-Lane,2280,0.757666567,Weilbull,1
+Weibull Not Metered 3-Lane,2290,0.785962337,Weilbull,1
+Weibull Not Metered 3-Lane,2300,0.812884411,Weilbull,1
+Weibull Not Metered 3-Lane,2310,0.838219544,Weilbull,1
+Weibull Not Metered 3-Lane,2320,0.861781366,Weilbull,1
+Weibull Not Metered 3-Lane,2330,0.883417666,Weilbull,1
+Weibull Not Metered 3-Lane,2340,0.903016727,Weilbull,1
+Weibull Not Metered 3-Lane,2350,0.920512208,Weilbull,1
+Weibull Not Metered 3-Lane,2360,0.935886088,Weilbull,1
+Weibull Not Metered 3-Lane,2370,0.949169304,Weilbull,1
+Weibull Not Metered 3-Lane,2380,0.960439832,Weilbull,1
+Weibull Not Metered 3-Lane,2390,0.969818211,Weilbull,1
+Weibull Not Metered 3-Lane,2400,0.977460688,Weilbull,1
+Weibull Not Metered 3-Lane,2410,0.983550454,Weilbull,1
+Weibull Not Metered 3-Lane,2420,0.988287616,Weilbull,1
+Weibull Not Metered 3-Lane,2430,0.99187873,Weilbull,1
+Weibull Not Metered 3-Lane,2440,0.994526761,Weilbull,1
+Weibull Not Metered 3-Lane,2450,0.996422309,Weilbull,1
+Weibull Not Metered 3-Lane,2460,0.997736745,Weilbull,1
+Weibull Not Metered 3-Lane,2470,0.998617692,Weilbull,1
+Weibull Not Metered 3-Lane,2480,0.999186955,Weilbull,1
+Weibull Not Metered 3-Lane,2490,0.999540711,Weilbull,1
+Weibull Not Metered 3-Lane,2500,0.999751535,Weilbull,1
+Weibull Not Metered 3-Lane,2510,0.999871676,Weilbull,1
+Weibull Not Metered 3-Lane,2520,0.999936935,Weilbull,1
+Weibull Not Metered 3-Lane,2530,0.999970611,Weilbull,1
+Weibull Not Metered 3-Lane,2540,0.999987062,Weilbull,1
+Weibull Not Metered 3-Lane,2550,0.999994641,Weilbull,1
+Weibull Not Metered 3-Lane,2560,0.99999792,Weilbull,1
+Weibull Not Metered 3-Lane,2570,0.999999247,Weilbull,1
+Weibull Not Metered 3-Lane,2580,0.999999747,Weilbull,1
+Weibull Not Metered 3-Lane,2590,0.999999922,Weilbull,1
+Weibull Not Metered 3-Lane,2600,0.999999978,Weilbull,1
+Weibull Not Metered 3-Lane,2610,0.999999994,Weilbull,1
+Weibull Not Metered 3-Lane,2620,0.999999999,Weilbull,1
+Weibull Not Metered 3-Lane,2630,1,Weilbull,1
+Weibull Not Metered 3-Lane,2640,1,Weilbull,1
+Weibull Not Metered 3-Lane,2650,1,Weilbull,1
+Weibull Not Metered 3-Lane,2660,1,Weilbull,1
+Weibull Not Metered 3-Lane,2670,1,Weilbull,1
+Weibull Not Metered 3-Lane,2680,1,Weilbull,1
+Weibull Not Metered 3-Lane,2690,1,Weilbull,1
+Weibull Not Metered 3-Lane,2700,1,Weilbull,1
+Weibull Not Metered 3-Lane,2710,1,Weilbull,1
+Weibull Not Metered 3-Lane,2720,1,Weilbull,1
+Weibull Not Metered 3-Lane,2730,1,Weilbull,1
+Weibull Not Metered 3-Lane,2740,1,Weilbull,1
+Weibull Not Metered 3-Lane,2750,1,Weilbull,1
+Weibull Not Metered 3-Lane,2760,1,Weilbull,1
+Weibull Not Metered 3-Lane,2770,1,Weilbull,1
+Weibull Not Metered 3-Lane,2780,1,Weilbull,1
+Weibull Not Metered 3-Lane,2790,1,Weilbull,1
+Weibull Not Metered 3-Lane,2800,1,Weilbull,1
+Weibull Not Metered 3-Lane,2810,1,Weilbull,1
+Weibull Not Metered 3-Lane,2820,1,Weilbull,1
+Weibull Not Metered 3-Lane,2830,1,Weilbull,1
+Weibull Not Metered 3-Lane,2840,1,Weilbull,1
+Weibull Not Metered 3-Lane,2850,1,Weilbull,1
+Weibull Not Metered 3-Lane,2860,1,Weilbull,1
+Weibull Not Metered 3-Lane,2870,1,Weilbull,1
+Weibull Not Metered 3-Lane,2880,1,Weilbull,1
+Weibull Not Metered 3-Lane,2890,1,Weilbull,1
+Weibull Not Metered 3-Lane,2900,1,Weilbull,1
+Weibull Not Metered 3-Lane,2910,1,Weilbull,1
+Weibull Not Metered 3-Lane,2920,1,Weilbull,1
+Weibull Not Metered 3-Lane,2930,1,Weilbull,1
+Weibull Not Metered 3-Lane,2940,1,Weilbull,1
+Weibull Not Metered 3-Lane,2950,1,Weilbull,1
+Weibull Not Metered 3-Lane,2960,1,Weilbull,1
+Weibull Not Metered 3-Lane,2970,1,Weilbull,1
+Weibull Not Metered 3-Lane,2980,1,Weilbull,1
+Weibull Not Metered 3-Lane,2990,1,Weilbull,1
+Weibull Not Metered 3-Lane,3000,1,Weilbull,1
+Weilbull Not Metered 4-Lane,0,0,Weilbull,2
+Weilbull Not Metered 4-Lane,10,1.83E-52,Weilbull,2
+Weilbull Not Metered 4-Lane,20,9.11E-46,Weilbull,2
+Weilbull Not Metered 4-Lane,30,7.54E-42,Weilbull,2
+Weilbull Not Metered 4-Lane,40,4.54E-39,Weilbull,2
+Weilbull Not Metered 4-Lane,50,6.49E-37,Weilbull,2
+Weilbull Not Metered 4-Lane,60,3.75E-35,Weilbull,2
+Weilbull Not Metered 4-Lane,70,1.16E-33,Weilbull,2
+Weilbull Not Metered 4-Lane,80,2.26E-32,Weilbull,2
+Weilbull Not Metered 4-Lane,90,3.10E-31,Weilbull,2
+Weilbull Not Metered 4-Lane,100,3.23E-30,Weilbull,2
+Weilbull Not Metered 4-Lane,110,2.69E-29,Weilbull,2
+Weilbull Not Metered 4-Lane,120,1.87E-28,Weilbull,2
+Weilbull Not Metered 4-Lane,130,1.11E-27,Weilbull,2
+Weilbull Not Metered 4-Lane,140,5.76E-27,Weilbull,2
+Weilbull Not Metered 4-Lane,150,2.67E-26,Weilbull,2
+Weilbull Not Metered 4-Lane,160,1.12E-25,Weilbull,2
+Weilbull Not Metered 4-Lane,170,4.33E-25,Weilbull,2
+Weilbull Not Metered 4-Lane,180,1.54E-24,Weilbull,2
+Weilbull Not Metered 4-Lane,190,5.14E-24,Weilbull,2
+Weilbull Not Metered 4-Lane,200,1.61E-23,Weilbull,2
+Weilbull Not Metered 4-Lane,210,4.76E-23,Weilbull,2
+Weilbull Not Metered 4-Lane,220,1.34E-22,Weilbull,2
+Weilbull Not Metered 4-Lane,230,3.60E-22,Weilbull,2
+Weilbull Not Metered 4-Lane,240,9.28E-22,Weilbull,2
+Weilbull Not Metered 4-Lane,250,2.30E-21,Weilbull,2
+Weilbull Not Metered 4-Lane,260,5.51E-21,Weilbull,2
+Weilbull Not Metered 4-Lane,270,1.28E-20,Weilbull,2
+Weilbull Not Metered 4-Lane,280,2.86E-20,Weilbull,2
+Weilbull Not Metered 4-Lane,290,6.25E-20,Weilbull,2
+Weilbull Not Metered 4-Lane,300,1.33E-19,Weilbull,2
+Weilbull Not Metered 4-Lane,310,2.76E-19,Weilbull,2
+Weilbull Not Metered 4-Lane,320,5.59E-19,Weilbull,2
+Weilbull Not Metered 4-Lane,330,1.11E-18,Weilbull,2
+Weilbull Not Metered 4-Lane,340,2.15E-18,Weilbull,2
+Weilbull Not Metered 4-Lane,350,4.10E-18,Weilbull,2
+Weilbull Not Metered 4-Lane,360,7.68E-18,Weilbull,2
+Weilbull Not Metered 4-Lane,370,1.41E-17,Weilbull,2
+Weilbull Not Metered 4-Lane,380,2.56E-17,Weilbull,2
+Weilbull Not Metered 4-Lane,390,4.56E-17,Weilbull,2
+Weilbull Not Metered 4-Lane,400,8.00E-17,Weilbull,2
+Weilbull Not Metered 4-Lane,410,1.39E-16,Weilbull,2
+Weilbull Not Metered 4-Lane,420,2.37E-16,Weilbull,2
+Weilbull Not Metered 4-Lane,430,4.00E-16,Weilbull,2
+Weilbull Not Metered 4-Lane,440,6.67E-16,Weilbull,2
+Weilbull Not Metered 4-Lane,450,1.10E-15,Weilbull,2
+Weilbull Not Metered 4-Lane,460,1.79E-15,Weilbull,2
+Weilbull Not Metered 4-Lane,470,2.89E-15,Weilbull,2
+Weilbull Not Metered 4-Lane,480,4.62E-15,Weilbull,2
+Weilbull Not Metered 4-Lane,490,7.31E-15,Weilbull,2
+Weilbull Not Metered 4-Lane,500,1.15E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,510,1.78E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,520,2.74E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,530,4.19E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,540,6.35E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,550,9.55E-14,Weilbull,2
+Weilbull Not Metered 4-Lane,560,1.43E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,570,2.11E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,580,3.11E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,590,4.55E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,600,6.61E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,610,9.55E-13,Weilbull,2
+Weilbull Not Metered 4-Lane,620,1.37E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,630,1.96E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,640,2.78E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,650,3.93E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,660,5.51E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,670,7.70E-12,Weilbull,2
+Weilbull Not Metered 4-Lane,680,1.07E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,690,1.48E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,700,2.04E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,710,2.80E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,720,3.82E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,730,5.19E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,740,7.03E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,750,9.47E-11,Weilbull,2
+Weilbull Not Metered 4-Lane,760,1.27E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,770,1.70E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,780,2.27E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,790,3.01E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,800,3.98E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,810,5.25E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,820,6.90E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,830,9.03E-10,Weilbull,2
+Weilbull Not Metered 4-Lane,840,1.18E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,850,1.53E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,860,1.99E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,870,2.57E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,880,3.32E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,890,4.27E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,900,5.47E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,910,6.99E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,920,8.92E-09,Weilbull,2
+Weilbull Not Metered 4-Lane,930,1.13E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,940,1.44E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,950,1.82E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,960,2.30E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,970,2.89E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,980,3.64E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,990,4.56E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,1000,5.70E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,1010,7.11E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,1020,8.86E-08,Weilbull,2
+Weilbull Not Metered 4-Lane,1030,1.10E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1040,1.36E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1050,1.69E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1060,2.08E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1070,2.57E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1080,3.16E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1090,3.88E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1100,4.75E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1110,5.81E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1120,7.09E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1130,8.64E-07,Weilbull,2
+Weilbull Not Metered 4-Lane,1140,1.05E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1150,1.28E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1160,1.55E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1170,1.87E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1180,2.26E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1190,2.73E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1200,3.29E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1210,3.96E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1220,4.75E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1230,5.70E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1240,6.83E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1250,8.16E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1260,9.74E-06,Weilbull,2
+Weilbull Not Metered 4-Lane,1270,1.16E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1280,1.38E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1290,1.64E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1300,1.95E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1310,2.32E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1320,2.74E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1330,3.24E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1340,3.83E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1350,4.52E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1360,5.33E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1370,6.27E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1380,7.37E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1390,8.66E-05,Weilbull,2
+Weilbull Not Metered 4-Lane,1400,0.000101552,Weilbull,2
+Weilbull Not Metered 4-Lane,1410,0.000118973,Weilbull,2
+Weilbull Not Metered 4-Lane,1420,0.000139228,Weilbull,2
+Weilbull Not Metered 4-Lane,1430,0.00016275,Weilbull,2
+Weilbull Not Metered 4-Lane,1440,0.000190039,Weilbull,2
+Weilbull Not Metered 4-Lane,1450,0.000221665,Weilbull,2
+Weilbull Not Metered 4-Lane,1460,0.000258281,Weilbull,2
+Weilbull Not Metered 4-Lane,1470,0.00030063,Weilbull,2
+Weilbull Not Metered 4-Lane,1480,0.000349562,Weilbull,2
+Weilbull Not Metered 4-Lane,1490,0.000406044,Weilbull,2
+Weilbull Not Metered 4-Lane,1500,0.000471178,Weilbull,2
+Weilbull Not Metered 4-Lane,1510,0.000546216,Weilbull,2
+Weilbull Not Metered 4-Lane,1520,0.000632585,Weilbull,2
+Weilbull Not Metered 4-Lane,1530,0.0007319,Weilbull,2
+Weilbull Not Metered 4-Lane,1540,0.000845997,Weilbull,2
+Weilbull Not Metered 4-Lane,1550,0.000976955,Weilbull,2
+Weilbull Not Metered 4-Lane,1560,0.00112713,Weilbull,2
+Weilbull Not Metered 4-Lane,1570,0.001299188,Weilbull,2
+Weilbull Not Metered 4-Lane,1580,0.001496141,Weilbull,2
+Weilbull Not Metered 4-Lane,1590,0.001721392,Weilbull,2
+Weilbull Not Metered 4-Lane,1600,0.001978781,Weilbull,2
+Weilbull Not Metered 4-Lane,1610,0.002272639,Weilbull,2
+Weilbull Not Metered 4-Lane,1620,0.002607843,Weilbull,2
+Weilbull Not Metered 4-Lane,1630,0.002989882,Weilbull,2
+Weilbull Not Metered 4-Lane,1640,0.003424927,Weilbull,2
+Weilbull Not Metered 4-Lane,1650,0.003919913,Weilbull,2
+Weilbull Not Metered 4-Lane,1660,0.004482619,Weilbull,2
+Weilbull Not Metered 4-Lane,1670,0.005121767,Weilbull,2
+Weilbull Not Metered 4-Lane,1680,0.005847127,Weilbull,2
+Weilbull Not Metered 4-Lane,1690,0.006669628,Weilbull,2
+Weilbull Not Metered 4-Lane,1700,0.007601484,Weilbull,2
+Weilbull Not Metered 4-Lane,1710,0.00865633,Weilbull,2
+Weilbull Not Metered 4-Lane,1720,0.009849367,Weilbull,2
+Weilbull Not Metered 4-Lane,1730,0.011197524,Weilbull,2
+Weilbull Not Metered 4-Lane,1740,0.012719626,Weilbull,2
+Weilbull Not Metered 4-Lane,1750,0.01443658,Weilbull,2
+Weilbull Not Metered 4-Lane,1760,0.016371568,Weilbull,2
+Weilbull Not Metered 4-Lane,1770,0.018550254,Weilbull,2
+Weilbull Not Metered 4-Lane,1780,0.021001004,Weilbull,2
+Weilbull Not Metered 4-Lane,1790,0.023755106,Weilbull,2
+Weilbull Not Metered 4-Lane,1800,0.026847009,Weilbull,2
+Weilbull Not Metered 4-Lane,1810,0.030314551,Weilbull,2
+Weilbull Not Metered 4-Lane,1820,0.0341992,Weilbull,2
+Weilbull Not Metered 4-Lane,1830,0.038546275,Weilbull,2
+Weilbull Not Metered 4-Lane,1840,0.043405167,Weilbull,2
+Weilbull Not Metered 4-Lane,1850,0.048829519,Weilbull,2
+Weilbull Not Metered 4-Lane,1860,0.054877393,Weilbull,2
+Weilbull Not Metered 4-Lane,1870,0.06161137,Weilbull,2
+Weilbull Not Metered 4-Lane,1880,0.069098594,Weilbull,2
+Weilbull Not Metered 4-Lane,1890,0.077410732,Weilbull,2
+Weilbull Not Metered 4-Lane,1900,0.086623822,Weilbull,2
+Weilbull Not Metered 4-Lane,1910,0.096817981,Weilbull,2
+Weilbull Not Metered 4-Lane,1920,0.108076955,Weilbull,2
+Weilbull Not Metered 4-Lane,1930,0.120487457,Weilbull,2
+Weilbull Not Metered 4-Lane,1940,0.134138262,Weilbull,2
+Weilbull Not Metered 4-Lane,1950,0.149119018,Weilbull,2
+Weilbull Not Metered 4-Lane,1960,0.165518732,Weilbull,2
+Weilbull Not Metered 4-Lane,1970,0.183423868,Weilbull,2
+Weilbull Not Metered 4-Lane,1980,0.20291604,Weilbull,2
+Weilbull Not Metered 4-Lane,1990,0.224069245,Weilbull,2
+Weilbull Not Metered 4-Lane,2000,0.246946625,Weilbull,2
+Weilbull Not Metered 4-Lane,2010,0.271596737,Weilbull,2
+Weilbull Not Metered 4-Lane,2020,0.298049366,Weilbull,2
+Weilbull Not Metered 4-Lane,2030,0.326310919,Weilbull,2
+Weilbull Not Metered 4-Lane,2040,0.356359511,Weilbull,2
+Weilbull Not Metered 4-Lane,2050,0.388139882,Weilbull,2
+Weilbull Not Metered 4-Lane,2060,0.421558379,Weilbull,2
+Weilbull Not Metered 4-Lane,2070,0.456478286,Weilbull,2
+Weilbull Not Metered 4-Lane,2080,0.492715873,Weilbull,2
+Weilbull Not Metered 4-Lane,2090,0.530037619,Weilbull,2
+Weilbull Not Metered 4-Lane,2100,0.568159108,Weilbull,2
+Weilbull Not Metered 4-Lane,2110,0.606746146,Weilbull,2
+Weilbull Not Metered 4-Lane,2120,0.645418647,Weilbull,2
+Weilbull Not Metered 4-Lane,2130,0.683757744,Weilbull,2
+Weilbull Not Metered 4-Lane,2140,0.721316458,Weilbull,2
+Weilbull Not Metered 4-Lane,2150,0.757634007,Weilbull,2
+Weilbull Not Metered 4-Lane,2160,0.792253498,Weilbull,2
+Weilbull Not Metered 4-Lane,2170,0.824742321,Weilbull,2
+Weilbull Not Metered 4-Lane,2180,0.85471409,Weilbull,2
+Weilbull Not Metered 4-Lane,2190,0.881850479,Weilbull,2
+Weilbull Not Metered 4-Lane,2200,0.905920939,Weilbull,2
+Weilbull Not Metered 4-Lane,2210,0.926798042,Weilbull,2
+Weilbull Not Metered 4-Lane,2220,0.944466314,Weilbull,2
+Weilbull Not Metered 4-Lane,2230,0.959022826,Weilbull,2
+Weilbull Not Metered 4-Lane,2240,0.970668688,Weilbull,2
+Weilbull Not Metered 4-Lane,2250,0.979691687,Weilbull,2
+Weilbull Not Metered 4-Lane,2260,0.986441687,Weilbull,2
+Weilbull Not Metered 4-Lane,2270,0.991301551,Weilbull,2
+Weilbull Not Metered 4-Lane,2280,0.994657246,Weilbull,2
+Weilbull Not Metered 4-Lane,2290,0.996870928,Weilbull,2
+Weilbull Not Metered 4-Lane,2300,0.998260287,Weilbull,2
+Weilbull Not Metered 4-Lane,2310,0.999086164,Weilbull,2
+Weilbull Not Metered 4-Lane,2320,0.999548848,Weilbull,2
+Weilbull Not Metered 4-Lane,2330,0.999791849,Weilbull,2
+Weilbull Not Metered 4-Lane,2340,0.9999108,Weilbull,2
+Weilbull Not Metered 4-Lane,2350,0.999964733,Weilbull,2
+Weilbull Not Metered 4-Lane,2360,0.999987228,Weilbull,2
+Weilbull Not Metered 4-Lane,2370,0.999995797,Weilbull,2
+Weilbull Not Metered 4-Lane,2380,0.999998754,Weilbull,2
+Weilbull Not Metered 4-Lane,2390,0.99999967,Weilbull,2
+Weilbull Not Metered 4-Lane,2400,0.999999923,Weilbull,2
+Weilbull Not Metered 4-Lane,2410,0.999999984,Weilbull,2
+Weilbull Not Metered 4-Lane,2420,0.999999997,Weilbull,2
+Weilbull Not Metered 4-Lane,2430,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2440,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2450,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2460,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2470,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2480,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2490,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2500,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2510,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2520,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2530,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2540,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2550,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2560,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2570,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2580,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2590,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2600,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2610,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2620,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2630,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2640,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2650,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2660,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2670,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2680,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2690,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2700,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2710,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2720,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2730,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2740,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2750,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2760,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2770,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2780,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2790,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2800,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2810,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2820,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2830,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2840,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2850,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2860,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2870,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2880,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2890,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2900,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2910,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2920,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2930,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2940,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2950,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2960,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2970,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2980,1,Weilbull,2
+Weilbull Not Metered 4-Lane,2990,1,Weilbull,2
+Weilbull Not Metered 4-Lane,3000,1,Weilbull,2
+Weilbull Metered 3-Lane,0,0,Weilbull,3
+Weilbull Metered 3-Lane,10,2.32E-58,Weilbull,3
+Weilbull Metered 3-Lane,20,4.02E-51,Weilbull,3
+Weilbull Metered 3-Lane,30,6.89E-47,Weilbull,3
+Weilbull Metered 3-Lane,40,6.96E-44,Weilbull,3
+Weilbull Metered 3-Lane,50,1.49E-41,Weilbull,3
+Weilbull Metered 3-Lane,60,1.20E-39,Weilbull,3
+Weilbull Metered 3-Lane,70,4.87E-38,Weilbull,3
+Weilbull Metered 3-Lane,80,1.21E-36,Weilbull,3
+Weilbull Metered 3-Lane,90,2.05E-35,Weilbull,3
+Weilbull Metered 3-Lane,100,2.58E-34,Weilbull,3
+Weilbull Metered 3-Lane,110,2.56E-33,Weilbull,3
+Weilbull Metered 3-Lane,120,2.07E-32,Weilbull,3
+Weilbull Metered 3-Lane,130,1.42E-31,Weilbull,3
+Weilbull Metered 3-Lane,140,8.44E-31,Weilbull,3
+Weilbull Metered 3-Lane,150,4.44E-30,Weilbull,3
+Weilbull Metered 3-Lane,160,2.09E-29,Weilbull,3
+Weilbull Metered 3-Lane,170,9.00E-29,Weilbull,3
+Weilbull Metered 3-Lane,180,3.56E-28,Weilbull,3
+Weilbull Metered 3-Lane,190,1.31E-27,Weilbull,3
+Weilbull Metered 3-Lane,200,4.48E-27,Weilbull,3
+Weilbull Metered 3-Lane,210,1.45E-26,Weilbull,3
+Weilbull Metered 3-Lane,220,4.43E-26,Weilbull,3
+Weilbull Metered 3-Lane,230,1.29E-25,Weilbull,3
+Weilbull Metered 3-Lane,240,3.59E-25,Weilbull,3
+Weilbull Metered 3-Lane,250,9.59E-25,Weilbull,3
+Weilbull Metered 3-Lane,260,2.46E-24,Weilbull,3
+Weilbull Metered 3-Lane,270,6.10E-24,Weilbull,3
+Weilbull Metered 3-Lane,280,1.46E-23,Weilbull,3
+Weilbull Metered 3-Lane,290,3.40E-23,Weilbull,3
+Weilbull Metered 3-Lane,300,7.69E-23,Weilbull,3
+Weilbull Metered 3-Lane,310,1.69E-22,Weilbull,3
+Weilbull Metered 3-Lane,320,3.63E-22,Weilbull,3
+Weilbull Metered 3-Lane,330,7.61E-22,Weilbull,3
+Weilbull Metered 3-Lane,340,1.56E-21,Weilbull,3
+Weilbull Metered 3-Lane,350,3.13E-21,Weilbull,3
+Weilbull Metered 3-Lane,360,6.17E-21,Weilbull,3
+Weilbull Metered 3-Lane,370,1.19E-20,Weilbull,3
+Weilbull Metered 3-Lane,380,2.26E-20,Weilbull,3
+Weilbull Metered 3-Lane,390,4.23E-20,Weilbull,3
+Weilbull Metered 3-Lane,400,7.77E-20,Weilbull,3
+Weilbull Metered 3-Lane,410,1.41E-19,Weilbull,3
+Weilbull Metered 3-Lane,420,2.51E-19,Weilbull,3
+Weilbull Metered 3-Lane,430,4.42E-19,Weilbull,3
+Weilbull Metered 3-Lane,440,7.69E-19,Weilbull,3
+Weilbull Metered 3-Lane,450,1.32E-18,Weilbull,3
+Weilbull Metered 3-Lane,460,2.24E-18,Weilbull,3
+Weilbull Metered 3-Lane,470,3.76E-18,Weilbull,3
+Weilbull Metered 3-Lane,480,6.23E-18,Weilbull,3
+Weilbull Metered 3-Lane,490,1.02E-17,Weilbull,3
+Weilbull Metered 3-Lane,500,1.66E-17,Weilbull,3
+Weilbull Metered 3-Lane,510,2.68E-17,Weilbull,3
+Weilbull Metered 3-Lane,520,4.27E-17,Weilbull,3
+Weilbull Metered 3-Lane,530,6.75E-17,Weilbull,3
+Weilbull Metered 3-Lane,540,1.06E-16,Weilbull,3
+Weilbull Metered 3-Lane,550,1.65E-16,Weilbull,3
+Weilbull Metered 3-Lane,560,2.54E-16,Weilbull,3
+Weilbull Metered 3-Lane,570,3.88E-16,Weilbull,3
+Weilbull Metered 3-Lane,580,5.90E-16,Weilbull,3
+Weilbull Metered 3-Lane,590,8.90E-16,Weilbull,3
+Weilbull Metered 3-Lane,600,1.33E-15,Weilbull,3
+Weilbull Metered 3-Lane,610,1.98E-15,Weilbull,3
+Weilbull Metered 3-Lane,620,2.93E-15,Weilbull,3
+Weilbull Metered 3-Lane,630,4.31E-15,Weilbull,3
+Weilbull Metered 3-Lane,640,6.30E-15,Weilbull,3
+Weilbull Metered 3-Lane,650,9.14E-15,Weilbull,3
+Weilbull Metered 3-Lane,660,1.32E-14,Weilbull,3
+Weilbull Metered 3-Lane,670,1.89E-14,Weilbull,3
+Weilbull Metered 3-Lane,680,2.70E-14,Weilbull,3
+Weilbull Metered 3-Lane,690,3.84E-14,Weilbull,3
+Weilbull Metered 3-Lane,700,5.43E-14,Weilbull,3
+Weilbull Metered 3-Lane,710,7.64E-14,Weilbull,3
+Weilbull Metered 3-Lane,720,1.07E-13,Weilbull,3
+Weilbull Metered 3-Lane,730,1.49E-13,Weilbull,3
+Weilbull Metered 3-Lane,740,2.07E-13,Weilbull,3
+Weilbull Metered 3-Lane,750,2.85E-13,Weilbull,3
+Weilbull Metered 3-Lane,760,3.92E-13,Weilbull,3
+Weilbull Metered 3-Lane,770,5.37E-13,Weilbull,3
+Weilbull Metered 3-Lane,780,7.33E-13,Weilbull,3
+Weilbull Metered 3-Lane,790,9.96E-13,Weilbull,3
+Weilbull Metered 3-Lane,800,1.35E-12,Weilbull,3
+Weilbull Metered 3-Lane,810,1.82E-12,Weilbull,3
+Weilbull Metered 3-Lane,820,2.44E-12,Weilbull,3
+Weilbull Metered 3-Lane,830,3.27E-12,Weilbull,3
+Weilbull Metered 3-Lane,840,4.36E-12,Weilbull,3
+Weilbull Metered 3-Lane,850,5.79E-12,Weilbull,3
+Weilbull Metered 3-Lane,860,7.67E-12,Weilbull,3
+Weilbull Metered 3-Lane,870,1.01E-11,Weilbull,3
+Weilbull Metered 3-Lane,880,1.33E-11,Weilbull,3
+Weilbull Metered 3-Lane,890,1.75E-11,Weilbull,3
+Weilbull Metered 3-Lane,900,2.29E-11,Weilbull,3
+Weilbull Metered 3-Lane,910,2.99E-11,Weilbull,3
+Weilbull Metered 3-Lane,920,3.88E-11,Weilbull,3
+Weilbull Metered 3-Lane,930,5.04E-11,Weilbull,3
+Weilbull Metered 3-Lane,940,6.51E-11,Weilbull,3
+Weilbull Metered 3-Lane,950,8.40E-11,Weilbull,3
+Weilbull Metered 3-Lane,960,1.08E-10,Weilbull,3
+Weilbull Metered 3-Lane,970,1.39E-10,Weilbull,3
+Weilbull Metered 3-Lane,980,1.77E-10,Weilbull,3
+Weilbull Metered 3-Lane,990,2.26E-10,Weilbull,3
+Weilbull Metered 3-Lane,1000,2.88E-10,Weilbull,3
+Weilbull Metered 3-Lane,1010,3.66E-10,Weilbull,3
+Weilbull Metered 3-Lane,1020,4.64E-10,Weilbull,3
+Weilbull Metered 3-Lane,1030,5.87E-10,Weilbull,3
+Weilbull Metered 3-Lane,1040,7.40E-10,Weilbull,3
+Weilbull Metered 3-Lane,1050,9.32E-10,Weilbull,3
+Weilbull Metered 3-Lane,1060,1.17E-09,Weilbull,3
+Weilbull Metered 3-Lane,1070,1.47E-09,Weilbull,3
+Weilbull Metered 3-Lane,1080,1.84E-09,Weilbull,3
+Weilbull Metered 3-Lane,1090,2.29E-09,Weilbull,3
+Weilbull Metered 3-Lane,1100,2.85E-09,Weilbull,3
+Weilbull Metered 3-Lane,1110,3.55E-09,Weilbull,3
+Weilbull Metered 3-Lane,1120,4.40E-09,Weilbull,3
+Weilbull Metered 3-Lane,1130,5.45E-09,Weilbull,3
+Weilbull Metered 3-Lane,1140,6.73E-09,Weilbull,3
+Weilbull Metered 3-Lane,1150,8.31E-09,Weilbull,3
+Weilbull Metered 3-Lane,1160,1.02E-08,Weilbull,3
+Weilbull Metered 3-Lane,1170,1.26E-08,Weilbull,3
+Weilbull Metered 3-Lane,1180,1.54E-08,Weilbull,3
+Weilbull Metered 3-Lane,1190,1.89E-08,Weilbull,3
+Weilbull Metered 3-Lane,1200,2.31E-08,Weilbull,3
+Weilbull Metered 3-Lane,1210,2.82E-08,Weilbull,3
+Weilbull Metered 3-Lane,1220,3.44E-08,Weilbull,3
+Weilbull Metered 3-Lane,1230,4.19E-08,Weilbull,3
+Weilbull Metered 3-Lane,1240,5.09E-08,Weilbull,3
+Weilbull Metered 3-Lane,1250,6.17E-08,Weilbull,3
+Weilbull Metered 3-Lane,1260,7.47E-08,Weilbull,3
+Weilbull Metered 3-Lane,1270,9.04E-08,Weilbull,3
+Weilbull Metered 3-Lane,1280,1.09E-07,Weilbull,3
+Weilbull Metered 3-Lane,1290,1.32E-07,Weilbull,3
+Weilbull Metered 3-Lane,1300,1.58E-07,Weilbull,3
+Weilbull Metered 3-Lane,1310,1.91E-07,Weilbull,3
+Weilbull Metered 3-Lane,1320,2.29E-07,Weilbull,3
+Weilbull Metered 3-Lane,1330,2.74E-07,Weilbull,3
+Weilbull Metered 3-Lane,1340,3.28E-07,Weilbull,3
+Weilbull Metered 3-Lane,1350,3.93E-07,Weilbull,3
+Weilbull Metered 3-Lane,1360,4.69E-07,Weilbull,3
+Weilbull Metered 3-Lane,1370,5.59E-07,Weilbull,3
+Weilbull Metered 3-Lane,1380,6.66E-07,Weilbull,3
+Weilbull Metered 3-Lane,1390,7.93E-07,Weilbull,3
+Weilbull Metered 3-Lane,1400,9.42E-07,Weilbull,3
+Weilbull Metered 3-Lane,1410,1.12E-06,Weilbull,3
+Weilbull Metered 3-Lane,1420,1.32E-06,Weilbull,3
+Weilbull Metered 3-Lane,1430,1.57E-06,Weilbull,3
+Weilbull Metered 3-Lane,1440,1.85E-06,Weilbull,3
+Weilbull Metered 3-Lane,1450,2.19E-06,Weilbull,3
+Weilbull Metered 3-Lane,1460,2.58E-06,Weilbull,3
+Weilbull Metered 3-Lane,1470,3.04E-06,Weilbull,3
+Weilbull Metered 3-Lane,1480,3.58E-06,Weilbull,3
+Weilbull Metered 3-Lane,1490,4.21E-06,Weilbull,3
+Weilbull Metered 3-Lane,1500,4.95E-06,Weilbull,3
+Weilbull Metered 3-Lane,1510,5.81E-06,Weilbull,3
+Weilbull Metered 3-Lane,1520,6.80E-06,Weilbull,3
+Weilbull Metered 3-Lane,1530,7.97E-06,Weilbull,3
+Weilbull Metered 3-Lane,1540,9.32E-06,Weilbull,3
+Weilbull Metered 3-Lane,1550,1.09E-05,Weilbull,3
+Weilbull Metered 3-Lane,1560,1.27E-05,Weilbull,3
+Weilbull Metered 3-Lane,1570,1.48E-05,Weilbull,3
+Weilbull Metered 3-Lane,1580,1.73E-05,Weilbull,3
+Weilbull Metered 3-Lane,1590,2.01E-05,Weilbull,3
+Weilbull Metered 3-Lane,1600,2.34E-05,Weilbull,3
+Weilbull Metered 3-Lane,1610,2.71E-05,Weilbull,3
+Weilbull Metered 3-Lane,1620,3.15E-05,Weilbull,3
+Weilbull Metered 3-Lane,1630,3.65E-05,Weilbull,3
+Weilbull Metered 3-Lane,1640,4.23E-05,Weilbull,3
+Weilbull Metered 3-Lane,1650,4.90E-05,Weilbull,3
+Weilbull Metered 3-Lane,1660,5.66E-05,Weilbull,3
+Weilbull Metered 3-Lane,1670,6.54E-05,Weilbull,3
+Weilbull Metered 3-Lane,1680,7.55E-05,Weilbull,3
+Weilbull Metered 3-Lane,1690,8.71E-05,Weilbull,3
+Weilbull Metered 3-Lane,1700,0.000100374,Weilbull,3
+Weilbull Metered 3-Lane,1710,0.000115577,Weilbull,3
+Weilbull Metered 3-Lane,1720,0.000132973,Weilbull,3
+Weilbull Metered 3-Lane,1730,0.000152863,Weilbull,3
+Weilbull Metered 3-Lane,1740,0.000175587,Weilbull,3
+Weilbull Metered 3-Lane,1750,0.000201529,Weilbull,3
+Weilbull Metered 3-Lane,1760,0.000231121,Weilbull,3
+Weilbull Metered 3-Lane,1770,0.000264852,Weilbull,3
+Weilbull Metered 3-Lane,1780,0.000303272,Weilbull,3
+Weilbull Metered 3-Lane,1790,0.000347002,Weilbull,3
+Weilbull Metered 3-Lane,1800,0.000396738,Weilbull,3
+Weilbull Metered 3-Lane,1810,0.000453264,Weilbull,3
+Weilbull Metered 3-Lane,1820,0.000517462,Weilbull,3
+Weilbull Metered 3-Lane,1830,0.000590322,Weilbull,3
+Weilbull Metered 3-Lane,1840,0.000672954,Weilbull,3
+Weilbull Metered 3-Lane,1850,0.000766603,Weilbull,3
+Weilbull Metered 3-Lane,1860,0.000872666,Weilbull,3
+Weilbull Metered 3-Lane,1870,0.000992706,Weilbull,3
+Weilbull Metered 3-Lane,1880,0.001128472,Weilbull,3
+Weilbull Metered 3-Lane,1890,0.001281923,Weilbull,3
+Weilbull Metered 3-Lane,1900,0.001455246,Weilbull,3
+Weilbull Metered 3-Lane,1910,0.001650885,Weilbull,3
+Weilbull Metered 3-Lane,1920,0.001871567,Weilbull,3
+Weilbull Metered 3-Lane,1930,0.002120335,Weilbull,3
+Weilbull Metered 3-Lane,1940,0.002400581,Weilbull,3
+Weilbull Metered 3-Lane,1950,0.002716083,Weilbull,3
+Weilbull Metered 3-Lane,1960,0.003071047,Weilbull,3
+Weilbull Metered 3-Lane,1970,0.003470151,Weilbull,3
+Weilbull Metered 3-Lane,1980,0.003918595,Weilbull,3
+Weilbull Metered 3-Lane,1990,0.004422155,Weilbull,3
+Weilbull Metered 3-Lane,2000,0.004987241,Weilbull,3
+Weilbull Metered 3-Lane,2010,0.005620962,Weilbull,3
+Weilbull Metered 3-Lane,2020,0.006331194,Weilbull,3
+Weilbull Metered 3-Lane,2030,0.007126659,Weilbull,3
+Weilbull Metered 3-Lane,2040,0.008017002,Weilbull,3
+Weilbull Metered 3-Lane,2050,0.009012886,Weilbull,3
+Weilbull Metered 3-Lane,2060,0.010126079,Weilbull,3
+Weilbull Metered 3-Lane,2070,0.011369566,Weilbull,3
+Weilbull Metered 3-Lane,2080,0.01275765,Weilbull,3
+Weilbull Metered 3-Lane,2090,0.014306075,Weilbull,3
+Weilbull Metered 3-Lane,2100,0.016032147,Weilbull,3
+Weilbull Metered 3-Lane,2110,0.017954864,Weilbull,3
+Weilbull Metered 3-Lane,2120,0.020095059,Weilbull,3
+Weilbull Metered 3-Lane,2130,0.022475535,Weilbull,3
+Weilbull Metered 3-Lane,2140,0.025121219,Weilbull,3
+Weilbull Metered 3-Lane,2150,0.028059311,Weilbull,3
+Weilbull Metered 3-Lane,2160,0.031319434,Weilbull,3
+Weilbull Metered 3-Lane,2170,0.034933791,Weilbull,3
+Weilbull Metered 3-Lane,2180,0.038937304,Weilbull,3
+Weilbull Metered 3-Lane,2190,0.04336776,Weilbull,3
+Weilbull Metered 3-Lane,2200,0.048265931,Weilbull,3
+Weilbull Metered 3-Lane,2210,0.053675682,Weilbull,3
+Weilbull Metered 3-Lane,2220,0.059644051,Weilbull,3
+Weilbull Metered 3-Lane,2230,0.066221291,Weilbull,3
+Weilbull Metered 3-Lane,2240,0.073460871,Weilbull,3
+Weilbull Metered 3-Lane,2250,0.081419416,Weilbull,3
+Weilbull Metered 3-Lane,2260,0.090156575,Weilbull,3
+Weilbull Metered 3-Lane,2270,0.099734803,Weilbull,3
+Weilbull Metered 3-Lane,2280,0.110219038,Weilbull,3
+Weilbull Metered 3-Lane,2290,0.121676249,Weilbull,3
+Weilbull Metered 3-Lane,2300,0.134174838,Weilbull,3
+Weilbull Metered 3-Lane,2310,0.147783867,Weilbull,3
+Weilbull Metered 3-Lane,2320,0.162572098,Weilbull,3
+Weilbull Metered 3-Lane,2330,0.178606795,Weilbull,3
+Weilbull Metered 3-Lane,2340,0.195952301,Weilbull,3
+Weilbull Metered 3-Lane,2350,0.214668332,Weilbull,3
+Weilbull Metered 3-Lane,2360,0.234807993,Weilbull,3
+Weilbull Metered 3-Lane,2370,0.256415512,Weilbull,3
+Weilbull Metered 3-Lane,2380,0.279523668,Weilbull,3
+Weilbull Metered 3-Lane,2390,0.304150958,Weilbull,3
+Weilbull Metered 3-Lane,2400,0.33029852,Weilbull,3
+Weilbull Metered 3-Lane,2410,0.357946885,Weilbull,3
+Weilbull Metered 3-Lane,2420,0.387052638,Weilbull,3
+Weilbull Metered 3-Lane,2430,0.417545116,Weilbull,3
+Weilbull Metered 3-Lane,2440,0.449323305,Weilbull,3
+Weilbull Metered 3-Lane,2450,0.482253145,Weilbull,3
+Weilbull Metered 3-Lane,2460,0.516165468,Weilbull,3
+Weilbull Metered 3-Lane,2470,0.550854871,Weilbull,3
+Weilbull Metered 3-Lane,2480,0.586079797,Weilbull,3
+Weilbull Metered 3-Lane,2490,0.621564156,Weilbull,3
+Weilbull Metered 3-Lane,2500,0.657000764,Weilbull,3
+Weilbull Metered 3-Lane,2510,0.69205684,Weilbull,3
+Weilbull Metered 3-Lane,2520,0.726381699,Weilbull,3
+Weilbull Metered 3-Lane,2530,0.759616664,Weilbull,3
+Weilbull Metered 3-Lane,2540,0.791406994,Weilbull,3
+Weilbull Metered 3-Lane,2550,0.82141543,Weilbull,3
+Weilbull Metered 3-Lane,2560,0.849336706,Weilbull,3
+Weilbull Metered 3-Lane,2570,0.874912102,Weilbull,3
+Weilbull Metered 3-Lane,2580,0.897942917,Weilbull,3
+Weilbull Metered 3-Lane,2590,0.918301618,Weilbull,3
+Weilbull Metered 3-Lane,2600,0.935939392,Weilbull,3
+Weilbull Metered 3-Lane,2610,0.950889024,Weilbull,3
+Weilbull Metered 3-Lane,2620,0.963262352,Weilbull,3
+Weilbull Metered 3-Lane,2630,0.973242089,Weilbull,3
+Weilbull Metered 3-Lane,2640,0.98106848,Weilbull,3
+Weilbull Metered 3-Lane,2650,0.987021904,Weilbull,3
+Weilbull Metered 3-Lane,2660,0.991403193,Weilbull,3
+Weilbull Metered 3-Lane,2670,0.99451377,Weilbull,3
+Weilbull Metered 3-Lane,2680,0.996637787,Weilbull,3
+Weilbull Metered 3-Lane,2690,0.998028122,Weilbull,3
+Weilbull Metered 3-Lane,2700,0.998897434,Weilbull,3
+Weilbull Metered 3-Lane,2710,0.999414629,Weilbull,3
+Weilbull Metered 3-Lane,2720,0.999706201,Weilbull,3
+Weilbull Metered 3-Lane,2730,0.999861262,Weilbull,3
+Weilbull Metered 3-Lane,2740,0.999938675,Weilbull,3
+Weilbull Metered 3-Lane,2750,0.999974767,Weilbull,3
+Weilbull Metered 3-Lane,2760,0.999990393,Weilbull,3
+Weilbull Metered 3-Lane,2770,0.999996637,Weilbull,3
+Weilbull Metered 3-Lane,2780,0.999998926,Weilbull,3
+Weilbull Metered 3-Lane,2790,0.999999689,Weilbull,3
+Weilbull Metered 3-Lane,2800,0.999999919,Weilbull,3
+Weilbull Metered 3-Lane,2810,0.999999981,Weilbull,3
+Weilbull Metered 3-Lane,2820,0.999999996,Weilbull,3
+Weilbull Metered 3-Lane,2830,0.999999999,Weilbull,3
+Weilbull Metered 3-Lane,2840,1,Weilbull,3
+Weilbull Metered 3-Lane,2850,1,Weilbull,3
+Weilbull Metered 3-Lane,2860,1,Weilbull,3
+Weilbull Metered 3-Lane,2870,1,Weilbull,3
+Weilbull Metered 3-Lane,2880,1,Weilbull,3
+Weilbull Metered 3-Lane,2890,1,Weilbull,3
+Weilbull Metered 3-Lane,2900,1,Weilbull,3
+Weilbull Metered 3-Lane,2910,1,Weilbull,3
+Weilbull Metered 3-Lane,2920,1,Weilbull,3
+Weilbull Metered 3-Lane,2930,1,Weilbull,3
+Weilbull Metered 3-Lane,2940,1,Weilbull,3
+Weilbull Metered 3-Lane,2950,1,Weilbull,3
+Weilbull Metered 3-Lane,2960,1,Weilbull,3
+Weilbull Metered 3-Lane,2970,1,Weilbull,3
+Weilbull Metered 3-Lane,2980,1,Weilbull,3
+Weilbull Metered 3-Lane,2990,1,Weilbull,3
+Weilbull Metered 3-Lane,3000,1,Weilbull,3
+Weilbull Metered 4-Lane,0,0,Weilbull,4
+Weilbull Metered 4-Lane,10,1.27E-41,Weilbull,4
+Weilbull Metered 4-Lane,20,2.19E-36,Weilbull,4
+Weilbull Metered 4-Lane,30,2.53E-33,Weilbull,4
+Weilbull Metered 4-Lane,40,3.78E-31,Weilbull,4
+Weilbull Metered 4-Lane,50,1.83E-29,Weilbull,4
+Weilbull Metered 4-Lane,60,4.36E-28,Weilbull,4
+Weilbull Metered 4-Lane,70,6.37E-27,Weilbull,4
+Weilbull Metered 4-Lane,80,6.50E-26,Weilbull,4
+Weilbull Metered 4-Lane,90,5.05E-25,Weilbull,4
+Weilbull Metered 4-Lane,100,3.15E-24,Weilbull,4
+Weilbull Metered 4-Lane,110,1.66E-23,Weilbull,4
+Weilbull Metered 4-Lane,120,7.52E-23,Weilbull,4
+Weilbull Metered 4-Lane,130,3.03E-22,Weilbull,4
+Weilbull Metered 4-Lane,140,1.10E-21,Weilbull,4
+Weilbull Metered 4-Lane,150,3.65E-21,Weilbull,4
+Weilbull Metered 4-Lane,160,1.12E-20,Weilbull,4
+Weilbull Metered 4-Lane,170,3.22E-20,Weilbull,4
+Weilbull Metered 4-Lane,180,8.69E-20,Weilbull,4
+Weilbull Metered 4-Lane,190,2.23E-19,Weilbull,4
+Weilbull Metered 4-Lane,200,5.43E-19,Weilbull,4
+Weilbull Metered 4-Lane,210,1.27E-18,Weilbull,4
+Weilbull Metered 4-Lane,220,2.85E-18,Weilbull,4
+Weilbull Metered 4-Lane,230,6.18E-18,Weilbull,4
+Weilbull Metered 4-Lane,240,1.30E-17,Weilbull,4
+Weilbull Metered 4-Lane,250,2.63E-17,Weilbull,4
+Weilbull Metered 4-Lane,260,5.21E-17,Weilbull,4
+Weilbull Metered 4-Lane,270,1.00E-16,Weilbull,4
+Weilbull Metered 4-Lane,280,1.89E-16,Weilbull,4
+Weilbull Metered 4-Lane,290,3.48E-16,Weilbull,4
+Weilbull Metered 4-Lane,300,6.28E-16,Weilbull,4
+Weilbull Metered 4-Lane,310,1.11E-15,Weilbull,4
+Weilbull Metered 4-Lane,320,1.93E-15,Weilbull,4
+Weilbull Metered 4-Lane,330,3.30E-15,Weilbull,4
+Weilbull Metered 4-Lane,340,5.54E-15,Weilbull,4
+Weilbull Metered 4-Lane,350,9.17E-15,Weilbull,4
+Weilbull Metered 4-Lane,360,1.50E-14,Weilbull,4
+Weilbull Metered 4-Lane,370,2.41E-14,Weilbull,4
+Weilbull Metered 4-Lane,380,3.84E-14,Weilbull,4
+Weilbull Metered 4-Lane,390,6.03E-14,Weilbull,4
+Weilbull Metered 4-Lane,400,9.36E-14,Weilbull,4
+Weilbull Metered 4-Lane,410,1.44E-13,Weilbull,4
+Weilbull Metered 4-Lane,420,2.19E-13,Weilbull,4
+Weilbull Metered 4-Lane,430,3.29E-13,Weilbull,4
+Weilbull Metered 4-Lane,440,4.91E-13,Weilbull,4
+Weilbull Metered 4-Lane,450,7.26E-13,Weilbull,4
+Weilbull Metered 4-Lane,460,1.06E-12,Weilbull,4
+Weilbull Metered 4-Lane,470,1.55E-12,Weilbull,4
+Weilbull Metered 4-Lane,480,2.23E-12,Weilbull,4
+Weilbull Metered 4-Lane,490,3.19E-12,Weilbull,4
+Weilbull Metered 4-Lane,500,4.54E-12,Weilbull,4
+Weilbull Metered 4-Lane,510,6.41E-12,Weilbull,4
+Weilbull Metered 4-Lane,520,8.98E-12,Weilbull,4
+Weilbull Metered 4-Lane,530,1.25E-11,Weilbull,4
+Weilbull Metered 4-Lane,540,1.73E-11,Weilbull,4
+Weilbull Metered 4-Lane,550,2.38E-11,Weilbull,4
+Weilbull Metered 4-Lane,560,3.26E-11,Weilbull,4
+Weilbull Metered 4-Lane,570,4.43E-11,Weilbull,4
+Weilbull Metered 4-Lane,580,6.00E-11,Weilbull,4
+Weilbull Metered 4-Lane,590,8.08E-11,Weilbull,4
+Weilbull Metered 4-Lane,600,1.08E-10,Weilbull,4
+Weilbull Metered 4-Lane,610,1.44E-10,Weilbull,4
+Weilbull Metered 4-Lane,620,1.91E-10,Weilbull,4
+Weilbull Metered 4-Lane,630,2.53E-10,Weilbull,4
+Weilbull Metered 4-Lane,640,3.33E-10,Weilbull,4
+Weilbull Metered 4-Lane,650,4.35E-10,Weilbull,4
+Weilbull Metered 4-Lane,660,5.68E-10,Weilbull,4
+Weilbull Metered 4-Lane,670,7.38E-10,Weilbull,4
+Weilbull Metered 4-Lane,680,9.55E-10,Weilbull,4
+Weilbull Metered 4-Lane,690,1.23E-09,Weilbull,4
+Weilbull Metered 4-Lane,700,1.58E-09,Weilbull,4
+Weilbull Metered 4-Lane,710,2.02E-09,Weilbull,4
+Weilbull Metered 4-Lane,720,2.58E-09,Weilbull,4
+Weilbull Metered 4-Lane,730,3.28E-09,Weilbull,4
+Weilbull Metered 4-Lane,740,4.16E-09,Weilbull,4
+Weilbull Metered 4-Lane,750,5.25E-09,Weilbull,4
+Weilbull Metered 4-Lane,760,6.61E-09,Weilbull,4
+Weilbull Metered 4-Lane,770,8.29E-09,Weilbull,4
+Weilbull Metered 4-Lane,780,1.04E-08,Weilbull,4
+Weilbull Metered 4-Lane,790,1.30E-08,Weilbull,4
+Weilbull Metered 4-Lane,800,1.61E-08,Weilbull,4
+Weilbull Metered 4-Lane,810,2.00E-08,Weilbull,4
+Weilbull Metered 4-Lane,820,2.48E-08,Weilbull,4
+Weilbull Metered 4-Lane,830,3.06E-08,Weilbull,4
+Weilbull Metered 4-Lane,840,3.77E-08,Weilbull,4
+Weilbull Metered 4-Lane,850,4.63E-08,Weilbull,4
+Weilbull Metered 4-Lane,860,5.67E-08,Weilbull,4
+Weilbull Metered 4-Lane,870,6.94E-08,Weilbull,4
+Weilbull Metered 4-Lane,880,8.46E-08,Weilbull,4
+Weilbull Metered 4-Lane,890,1.03E-07,Weilbull,4
+Weilbull Metered 4-Lane,900,1.25E-07,Weilbull,4
+Weilbull Metered 4-Lane,910,1.52E-07,Weilbull,4
+Weilbull Metered 4-Lane,920,1.83E-07,Weilbull,4
+Weilbull Metered 4-Lane,930,2.21E-07,Weilbull,4
+Weilbull Metered 4-Lane,940,2.67E-07,Weilbull,4
+Weilbull Metered 4-Lane,950,3.20E-07,Weilbull,4
+Weilbull Metered 4-Lane,960,3.84E-07,Weilbull,4
+Weilbull Metered 4-Lane,970,4.60E-07,Weilbull,4
+Weilbull Metered 4-Lane,980,5.50E-07,Weilbull,4
+Weilbull Metered 4-Lane,990,6.57E-07,Weilbull,4
+Weilbull Metered 4-Lane,1000,7.82E-07,Weilbull,4
+Weilbull Metered 4-Lane,1010,9.30E-07,Weilbull,4
+Weilbull Metered 4-Lane,1020,1.10E-06,Weilbull,4
+Weilbull Metered 4-Lane,1030,1.31E-06,Weilbull,4
+Weilbull Metered 4-Lane,1040,1.55E-06,Weilbull,4
+Weilbull Metered 4-Lane,1050,1.83E-06,Weilbull,4
+Weilbull Metered 4-Lane,1060,2.15E-06,Weilbull,4
+Weilbull Metered 4-Lane,1070,2.54E-06,Weilbull,4
+Weilbull Metered 4-Lane,1080,2.98E-06,Weilbull,4
+Weilbull Metered 4-Lane,1090,3.50E-06,Weilbull,4
+Weilbull Metered 4-Lane,1100,4.10E-06,Weilbull,4
+Weilbull Metered 4-Lane,1110,4.80E-06,Weilbull,4
+Weilbull Metered 4-Lane,1120,5.61E-06,Weilbull,4
+Weilbull Metered 4-Lane,1130,6.55E-06,Weilbull,4
+Weilbull Metered 4-Lane,1140,7.64E-06,Weilbull,4
+Weilbull Metered 4-Lane,1150,8.89E-06,Weilbull,4
+Weilbull Metered 4-Lane,1160,1.03E-05,Weilbull,4
+Weilbull Metered 4-Lane,1170,1.20E-05,Weilbull,4
+Weilbull Metered 4-Lane,1180,1.39E-05,Weilbull,4
+Weilbull Metered 4-Lane,1190,1.61E-05,Weilbull,4
+Weilbull Metered 4-Lane,1200,1.86E-05,Weilbull,4
+Weilbull Metered 4-Lane,1210,2.15E-05,Weilbull,4
+Weilbull Metered 4-Lane,1220,2.49E-05,Weilbull,4
+Weilbull Metered 4-Lane,1230,2.86E-05,Weilbull,4
+Weilbull Metered 4-Lane,1240,3.30E-05,Weilbull,4
+Weilbull Metered 4-Lane,1250,3.79E-05,Weilbull,4
+Weilbull Metered 4-Lane,1260,4.36E-05,Weilbull,4
+Weilbull Metered 4-Lane,1270,5.00E-05,Weilbull,4
+Weilbull Metered 4-Lane,1280,5.73E-05,Weilbull,4
+Weilbull Metered 4-Lane,1290,6.56E-05,Weilbull,4
+Weilbull Metered 4-Lane,1300,7.50E-05,Weilbull,4
+Weilbull Metered 4-Lane,1310,8.57E-05,Weilbull,4
+Weilbull Metered 4-Lane,1320,9.78E-05,Weilbull,4
+Weilbull Metered 4-Lane,1330,0.000111558,Weilbull,4
+Weilbull Metered 4-Lane,1340,0.000127081,Weilbull,4
+Weilbull Metered 4-Lane,1350,0.000144625,Weilbull,4
+Weilbull Metered 4-Lane,1360,0.000164434,Weilbull,4
+Weilbull Metered 4-Lane,1370,0.000186779,Weilbull,4
+Weilbull Metered 4-Lane,1380,0.000211965,Weilbull,4
+Weilbull Metered 4-Lane,1390,0.000240326,Weilbull,4
+Weilbull Metered 4-Lane,1400,0.000272237,Weilbull,4
+Weilbull Metered 4-Lane,1410,0.000308111,Weilbull,4
+Weilbull Metered 4-Lane,1420,0.000348406,Weilbull,4
+Weilbull Metered 4-Lane,1430,0.00039363,Weilbull,4
+Weilbull Metered 4-Lane,1440,0.000444345,Weilbull,4
+Weilbull Metered 4-Lane,1450,0.000501172,Weilbull,4
+Weilbull Metered 4-Lane,1460,0.000564797,Weilbull,4
+Weilbull Metered 4-Lane,1470,0.000635978,Weilbull,4
+Weilbull Metered 4-Lane,1480,0.000715551,Weilbull,4
+Weilbull Metered 4-Lane,1490,0.000804437,Weilbull,4
+Weilbull Metered 4-Lane,1500,0.000903651,Weilbull,4
+Weilbull Metered 4-Lane,1510,0.001014311,Weilbull,4
+Weilbull Metered 4-Lane,1520,0.001137648,Weilbull,4
+Weilbull Metered 4-Lane,1530,0.001275012,Weilbull,4
+Weilbull Metered 4-Lane,1540,0.00142789,Weilbull,4
+Weilbull Metered 4-Lane,1550,0.001597912,Weilbull,4
+Weilbull Metered 4-Lane,1560,0.001786868,Weilbull,4
+Weilbull Metered 4-Lane,1570,0.001996719,Weilbull,4
+Weilbull Metered 4-Lane,1580,0.002229616,Weilbull,4
+Weilbull Metered 4-Lane,1590,0.002487912,Weilbull,4
+Weilbull Metered 4-Lane,1600,0.002774183,Weilbull,4
+Weilbull Metered 4-Lane,1610,0.003091244,Weilbull,4
+Weilbull Metered 4-Lane,1620,0.003442173,Weilbull,4
+Weilbull Metered 4-Lane,1630,0.003830329,Weilbull,4
+Weilbull Metered 4-Lane,1640,0.004259379,Weilbull,4
+Weilbull Metered 4-Lane,1650,0.004733318,Weilbull,4
+Weilbull Metered 4-Lane,1660,0.005256502,Weilbull,4
+Weilbull Metered 4-Lane,1670,0.005833673,Weilbull,4
+Weilbull Metered 4-Lane,1680,0.006469987,Weilbull,4
+Weilbull Metered 4-Lane,1690,0.007171052,Weilbull,4
+Weilbull Metered 4-Lane,1700,0.007942958,Weilbull,4
+Weilbull Metered 4-Lane,1710,0.008792315,Weilbull,4
+Weilbull Metered 4-Lane,1720,0.009726289,Weilbull,4
+Weilbull Metered 4-Lane,1730,0.010752646,Weilbull,4
+Weilbull Metered 4-Lane,1740,0.011879792,Weilbull,4
+Weilbull Metered 4-Lane,1750,0.013116816,Weilbull,4
+Weilbull Metered 4-Lane,1760,0.01447354,Weilbull,4
+Weilbull Metered 4-Lane,1770,0.015960563,Weilbull,4
+Weilbull Metered 4-Lane,1780,0.017589313,Weilbull,4
+Weilbull Metered 4-Lane,1790,0.019372096,Weilbull,4
+Weilbull Metered 4-Lane,1800,0.021322151,Weilbull,4
+Weilbull Metered 4-Lane,1810,0.023453699,Weilbull,4
+Weilbull Metered 4-Lane,1820,0.025781998,Weilbull,4
+Weilbull Metered 4-Lane,1830,0.028323395,Weilbull,4
+Weilbull Metered 4-Lane,1840,0.031095378,Weilbull,4
+Weilbull Metered 4-Lane,1850,0.034116624,Weilbull,4
+Weilbull Metered 4-Lane,1860,0.037407049,Weilbull,4
+Weilbull Metered 4-Lane,1870,0.040987848,Weilbull,4
+Weilbull Metered 4-Lane,1880,0.044881531,Weilbull,4
+Weilbull Metered 4-Lane,1890,0.049111958,Weilbull,4
+Weilbull Metered 4-Lane,1900,0.053704357,Weilbull,4
+Weilbull Metered 4-Lane,1910,0.058685337,Weilbull,4
+Weilbull Metered 4-Lane,1920,0.064082881,Weilbull,4
+Weilbull Metered 4-Lane,1930,0.069926334,Weilbull,4
+Weilbull Metered 4-Lane,1940,0.076246361,Weilbull,4
+Weilbull Metered 4-Lane,1950,0.083074889,Weilbull,4
+Weilbull Metered 4-Lane,1960,0.09044502,Weilbull,4
+Weilbull Metered 4-Lane,1970,0.098390916,Weilbull,4
+Weilbull Metered 4-Lane,1980,0.106947649,Weilbull,4
+Weilbull Metered 4-Lane,1990,0.116151012,Weilbull,4
+Weilbull Metered 4-Lane,2000,0.126037283,Weilbull,4
+Weilbull Metered 4-Lane,2010,0.136642949,Weilbull,4
+Weilbull Metered 4-Lane,2020,0.148004362,Weilbull,4
+Weilbull Metered 4-Lane,2030,0.160157348,Weilbull,4
+Weilbull Metered 4-Lane,2040,0.173136746,Weilbull,4
+Weilbull Metered 4-Lane,2050,0.18697588,Weilbull,4
+Weilbull Metered 4-Lane,2060,0.201705955,Weilbull,4
+Weilbull Metered 4-Lane,2070,0.217355388,Weilbull,4
+Weilbull Metered 4-Lane,2080,0.233949049,Weilbull,4
+Weilbull Metered 4-Lane,2090,0.251507443,Weilbull,4
+Weilbull Metered 4-Lane,2100,0.270045804,Weilbull,4
+Weilbull Metered 4-Lane,2110,0.289573136,Weilbull,4
+Weilbull Metered 4-Lane,2120,0.310091193,Weilbull,4
+Weilbull Metered 4-Lane,2130,0.331593417,Weilbull,4
+Weilbull Metered 4-Lane,2140,0.354063856,Weilbull,4
+Weilbull Metered 4-Lane,2150,0.377476085,Weilbull,4
+Weilbull Metered 4-Lane,2160,0.401792154,Weilbull,4
+Weilbull Metered 4-Lane,2170,0.426961615,Weilbull,4
+Weilbull Metered 4-Lane,2180,0.452920651,Weilbull,4
+Weilbull Metered 4-Lane,2190,0.479591379,Weilbull,4
+Weilbull Metered 4-Lane,2200,0.506881357,Weilbull,4
+Weilbull Metered 4-Lane,2210,0.534683379,Weilbull,4
+Weilbull Metered 4-Lane,2220,0.562875596,Weilbull,4
+Weilbull Metered 4-Lane,2230,0.591322039,Weilbull,4
+Weilbull Metered 4-Lane,2240,0.619873596,Weilbull,4
+Weilbull Metered 4-Lane,2250,0.648369488,Weilbull,4
+Weilbull Metered 4-Lane,2260,0.676639284,Weilbull,4
+Weilbull Metered 4-Lane,2270,0.704505469,Weilbull,4
+Weilbull Metered 4-Lane,2280,0.731786564,Weilbull,4
+Weilbull Metered 4-Lane,2290,0.758300744,Weilbull,4
+Weilbull Metered 4-Lane,2300,0.783869912,Weilbull,4
+Weilbull Metered 4-Lane,2310,0.80832409,Weilbull,4
+Weilbull Metered 4-Lane,2320,0.831505997,Weilbull,4
+Weilbull Metered 4-Lane,2330,0.853275625,Weilbull,4
+Weilbull Metered 4-Lane,2340,0.873514597,Weilbull,4
+Weilbull Metered 4-Lane,2350,0.892130068,Weilbull,4
+Weilbull Metered 4-Lane,2360,0.909057925,Weilbull,4
+Weilbull Metered 4-Lane,2370,0.924265054,Weilbull,4
+Weilbull Metered 4-Lane,2380,0.937750464,Weilbull,4
+Weilbull Metered 4-Lane,2390,0.949545125,Weilbull,4
+Weilbull Metered 4-Lane,2400,0.959710444,Weilbull,4
+Weilbull Metered 4-Lane,2410,0.968335391,Weilbull,4
+Weilbull Metered 4-Lane,2420,0.975532394,Weilbull,4
+Weilbull Metered 4-Lane,2430,0.981432226,Weilbull,4
+Weilbull Metered 4-Lane,2440,0.986178193,Weilbull,4
+Weilbull Metered 4-Lane,2450,0.989919998,Weilbull,4
+Weilbull Metered 4-Lane,2460,0.992807693,Weilbull,4
+Weilbull Metered 4-Lane,2470,0.994986122,Weilbull,4
+Weilbull Metered 4-Lane,2480,0.996590222,Weilbull,4
+Weilbull Metered 4-Lane,2490,0.997741421,Weilbull,4
+Weilbull Metered 4-Lane,2500,0.998545311,Weilbull,4
+Weilbull Metered 4-Lane,2510,0.999090599,Weilbull,4
+Weilbull Metered 4-Lane,2520,0.999449229,Weilbull,4
+Weilbull Metered 4-Lane,2530,0.999677487,Weilbull,4
+Weilbull Metered 4-Lane,2540,0.999817793,Weilbull,4
+Weilbull Metered 4-Lane,2550,0.999900906,Weilbull,4
+Weilbull Metered 4-Lane,2560,0.999948243,Weilbull,4
+Weilbull Metered 4-Lane,2570,0.999974104,Weilbull,4
+Weilbull Metered 4-Lane,2580,0.999987621,Weilbull,4
+Weilbull Metered 4-Lane,2590,0.999994362,Weilbull,4
+Weilbull Metered 4-Lane,2600,0.999997561,Weilbull,4
+Weilbull Metered 4-Lane,2610,0.999999001,Weilbull,4
+Weilbull Metered 4-Lane,2620,0.999999614,Weilbull,4
+Weilbull Metered 4-Lane,2630,0.99999986,Weilbull,4
+Weilbull Metered 4-Lane,2640,0.999999952,Weilbull,4
+Weilbull Metered 4-Lane,2650,0.999999985,Weilbull,4
+Weilbull Metered 4-Lane,2660,0.999999996,Weilbull,4
+Weilbull Metered 4-Lane,2670,0.999999999,Weilbull,4
+Weilbull Metered 4-Lane,2680,1,Weilbull,4
+Weilbull Metered 4-Lane,2690,1,Weilbull,4
+Weilbull Metered 4-Lane,2700,1,Weilbull,4
+Weilbull Metered 4-Lane,2710,1,Weilbull,4
+Weilbull Metered 4-Lane,2720,1,Weilbull,4
+Weilbull Metered 4-Lane,2730,1,Weilbull,4
+Weilbull Metered 4-Lane,2740,1,Weilbull,4
+Weilbull Metered 4-Lane,2750,1,Weilbull,4
+Weilbull Metered 4-Lane,2760,1,Weilbull,4
+Weilbull Metered 4-Lane,2770,1,Weilbull,4
+Weilbull Metered 4-Lane,2780,1,Weilbull,4
+Weilbull Metered 4-Lane,2790,1,Weilbull,4
+Weilbull Metered 4-Lane,2800,1,Weilbull,4
+Weilbull Metered 4-Lane,2810,1,Weilbull,4
+Weilbull Metered 4-Lane,2820,1,Weilbull,4
+Weilbull Metered 4-Lane,2830,1,Weilbull,4
+Weilbull Metered 4-Lane,2840,1,Weilbull,4
+Weilbull Metered 4-Lane,2850,1,Weilbull,4
+Weilbull Metered 4-Lane,2860,1,Weilbull,4
+Weilbull Metered 4-Lane,2870,1,Weilbull,4
+Weilbull Metered 4-Lane,2880,1,Weilbull,4
+Weilbull Metered 4-Lane,2890,1,Weilbull,4
+Weilbull Metered 4-Lane,2900,1,Weilbull,4
+Weilbull Metered 4-Lane,2910,1,Weilbull,4
+Weilbull Metered 4-Lane,2920,1,Weilbull,4
+Weilbull Metered 4-Lane,2930,1,Weilbull,4
+Weilbull Metered 4-Lane,2940,1,Weilbull,4
+Weilbull Metered 4-Lane,2950,1,Weilbull,4
+Weilbull Metered 4-Lane,2960,1,Weilbull,4
+Weilbull Metered 4-Lane,2970,1,Weilbull,4
+Weilbull Metered 4-Lane,2980,1,Weilbull,4
+Weilbull Metered 4-Lane,2990,1,Weilbull,4
+Weilbull Metered 4-Lane,3000,1,Weilbull,4
+PLM Not Metered 3-Lane,1072,0.00002,PLM,
+PLM Not Metered 3-Lane,1124,0.00005,PLM,
+PLM Not Metered 3-Lane,1280,0.00009,PLM,
+PLM Not Metered 3-Lane,1308,0.00013,PLM,
+PLM Not Metered 3-Lane,1376.304,0.00019,PLM,
+PLM Not Metered 3-Lane,1399.68,0.00024,PLM,
+PLM Not Metered 3-Lane,1455,0.00031,PLM,
+PLM Not Metered 3-Lane,1476,0.00038,PLM,
+PLM Not Metered 3-Lane,1488.216,0.00045,PLM,
+PLM Not Metered 3-Lane,1524.432,0.00053,PLM,
+PLM Not Metered 3-Lane,1528,0.00061,PLM,
+PLM Not Metered 3-Lane,1536,0.0007,PLM,
+PLM Not Metered 3-Lane,1536,0.00078,PLM,
+PLM Not Metered 3-Lane,1542,0.00087,PLM,
+PLM Not Metered 3-Lane,1545,0.00096,PLM,
+PLM Not Metered 3-Lane,1559.52,0.00105,PLM,
+PLM Not Metered 3-Lane,1566,0.00115,PLM,
+PLM Not Metered 3-Lane,1572,0.00124,PLM,
+PLM Not Metered 3-Lane,1575,0.00134,PLM,
+PLM Not Metered 3-Lane,1578,0.00144,PLM,
+PLM Not Metered 3-Lane,1578,0.00154,PLM,
+PLM Not Metered 3-Lane,1584,0.00164,PLM,
+PLM Not Metered 3-Lane,1587,0.00174,PLM,
+PLM Not Metered 3-Lane,1587,0.00184,PLM,
+PLM Not Metered 3-Lane,1590,0.00195,PLM,
+PLM Not Metered 3-Lane,1603.9,0.00205,PLM,
+PLM Not Metered 3-Lane,1605,0.00216,PLM,
+PLM Not Metered 3-Lane,1608,0.00227,PLM,
+PLM Not Metered 3-Lane,1608,0.00238,PLM,
+PLM Not Metered 3-Lane,1623,0.0025,PLM,
+PLM Not Metered 3-Lane,1628,0.00262,PLM,
+PLM Not Metered 3-Lane,1629,0.00274,PLM,
+PLM Not Metered 3-Lane,1631.252,0.00286,PLM,
+PLM Not Metered 3-Lane,1635,0.00298,PLM,
+PLM Not Metered 3-Lane,1635,0.0031,PLM,
+PLM Not Metered 3-Lane,1647,0.00323,PLM,
+PLM Not Metered 3-Lane,1647,0.00336,PLM,
+PLM Not Metered 3-Lane,1647,0.00348,PLM,
+PLM Not Metered 3-Lane,1653,0.00362,PLM,
+PLM Not Metered 3-Lane,1653,0.00375,PLM,
+PLM Not Metered 3-Lane,1659,0.00388,PLM,
+PLM Not Metered 3-Lane,1665,0.00402,PLM,
+PLM Not Metered 3-Lane,1665,0.00416,PLM,
+PLM Not Metered 3-Lane,1668,0.0043,PLM,
+PLM Not Metered 3-Lane,1674,0.00444,PLM,
+PLM Not Metered 3-Lane,1674,0.00458,PLM,
+PLM Not Metered 3-Lane,1680,0.00473,PLM,
+PLM Not Metered 3-Lane,1686,0.00488,PLM,
+PLM Not Metered 3-Lane,1686,0.00503,PLM,
+PLM Not Metered 3-Lane,1689,0.00518,PLM,
+PLM Not Metered 3-Lane,1691.712,0.00534,PLM,
+PLM Not Metered 3-Lane,1692,0.00549,PLM,
+PLM Not Metered 3-Lane,1696,0.00565,PLM,
+PLM Not Metered 3-Lane,1707,0.00581,PLM,
+PLM Not Metered 3-Lane,1707,0.00597,PLM,
+PLM Not Metered 3-Lane,1707,0.00613,PLM,
+PLM Not Metered 3-Lane,1707,0.0063,PLM,
+PLM Not Metered 3-Lane,1710,0.00646,PLM,
+PLM Not Metered 3-Lane,1710,0.00663,PLM,
+PLM Not Metered 3-Lane,1712,0.00679,PLM,
+PLM Not Metered 3-Lane,1713,0.00696,PLM,
+PLM Not Metered 3-Lane,1722,0.00714,PLM,
+PLM Not Metered 3-Lane,1724.3,0.00731,PLM,
+PLM Not Metered 3-Lane,1731,0.00749,PLM,
+PLM Not Metered 3-Lane,1732,0.00768,PLM,
+PLM Not Metered 3-Lane,1736,0.00786,PLM,
+PLM Not Metered 3-Lane,1737,0.00805,PLM,
+PLM Not Metered 3-Lane,1740,0.00824,PLM,
+PLM Not Metered 3-Lane,1752,0.00843,PLM,
+PLM Not Metered 3-Lane,1752,0.00863,PLM,
+PLM Not Metered 3-Lane,1752,0.00883,PLM,
+PLM Not Metered 3-Lane,1761,0.00904,PLM,
+PLM Not Metered 3-Lane,1761,0.00924,PLM,
+PLM Not Metered 3-Lane,1764.36,0.00945,PLM,
+PLM Not Metered 3-Lane,1768,0.00967,PLM,
+PLM Not Metered 3-Lane,1770,0.00988,PLM,
+PLM Not Metered 3-Lane,1772,0.0101,PLM,
+PLM Not Metered 3-Lane,1775.232,0.01032,PLM,
+PLM Not Metered 3-Lane,1776,0.01054,PLM,
+PLM Not Metered 3-Lane,1779,0.01076,PLM,
+PLM Not Metered 3-Lane,1779.4,0.01099,PLM,
+PLM Not Metered 3-Lane,1791,0.01123,PLM,
+PLM Not Metered 3-Lane,1791.576,0.01147,PLM,
+PLM Not Metered 3-Lane,1791.828,0.01171,PLM,
+PLM Not Metered 3-Lane,1792,0.01195,PLM,
+PLM Not Metered 3-Lane,1792.384,0.01219,PLM,
+PLM Not Metered 3-Lane,1800,0.01244,PLM,
+PLM Not Metered 3-Lane,1803,0.01269,PLM,
+PLM Not Metered 3-Lane,1806,0.01295,PLM,
+PLM Not Metered 3-Lane,1808.664,0.01322,PLM,
+PLM Not Metered 3-Lane,1811.672,0.01348,PLM,
+PLM Not Metered 3-Lane,1812.016,0.01375,PLM,
+PLM Not Metered 3-Lane,1812.448,0.01402,PLM,
+PLM Not Metered 3-Lane,1815,0.01429,PLM,
+PLM Not Metered 3-Lane,1816,0.01457,PLM,
+PLM Not Metered 3-Lane,1816.288,0.01484,PLM,
+PLM Not Metered 3-Lane,1823.796,0.01513,PLM,
+PLM Not Metered 3-Lane,1824.108,0.01541,PLM,
+PLM Not Metered 3-Lane,1828,0.01571,PLM,
+PLM Not Metered 3-Lane,1831.536,0.01601,PLM,
+PLM Not Metered 3-Lane,1831.68,0.01631,PLM,
+PLM Not Metered 3-Lane,1832,0.01661,PLM,
+PLM Not Metered 3-Lane,1832,0.01691,PLM,
+PLM Not Metered 3-Lane,1835.4,0.01722,PLM,
+PLM Not Metered 3-Lane,1835.7,0.01752,PLM,
+PLM Not Metered 3-Lane,1835.82,0.01783,PLM,
+PLM Not Metered 3-Lane,1835.92,0.01813,PLM,
+PLM Not Metered 3-Lane,1839.508,0.01845,PLM,
+PLM Not Metered 3-Lane,1842,0.01877,PLM,
+PLM Not Metered 3-Lane,1848,0.01911,PLM,
+PLM Not Metered 3-Lane,1848,0.01944,PLM,
+PLM Not Metered 3-Lane,1848.672,0.01978,PLM,
+PLM Not Metered 3-Lane,1848.84,0.02012,PLM,
+PLM Not Metered 3-Lane,1852,0.02047,PLM,
+PLM Not Metered 3-Lane,1852.312,0.02082,PLM,
+PLM Not Metered 3-Lane,1854,0.02117,PLM,
+PLM Not Metered 3-Lane,1855.36,0.02152,PLM,
+PLM Not Metered 3-Lane,1857,0.02189,PLM,
+PLM Not Metered 3-Lane,1860.168,0.02226,PLM,
+PLM Not Metered 3-Lane,1863.368,0.02263,PLM,
+PLM Not Metered 3-Lane,1863.66,0.02301,PLM,
+PLM Not Metered 3-Lane,1864,0.0234,PLM,
+PLM Not Metered 3-Lane,1864.872,0.02378,PLM,
+PLM Not Metered 3-Lane,1868,0.02418,PLM,
+PLM Not Metered 3-Lane,1868,0.02457,PLM,
+PLM Not Metered 3-Lane,1868,0.02497,PLM,
+PLM Not Metered 3-Lane,1872,0.02538,PLM,
+PLM Not Metered 3-Lane,1872.24,0.02579,PLM,
+PLM Not Metered 3-Lane,1879.384,0.02623,PLM,
+PLM Not Metered 3-Lane,1881,0.02667,PLM,
+PLM Not Metered 3-Lane,1883.2,0.02711,PLM,
+PLM Not Metered 3-Lane,1883.376,0.02756,PLM,
+PLM Not Metered 3-Lane,1884.336,0.02801,PLM,
+PLM Not Metered 3-Lane,1887.408,0.02847,PLM,
+PLM Not Metered 3-Lane,1888,0.02893,PLM,
+PLM Not Metered 3-Lane,1888,0.0294,PLM,
+PLM Not Metered 3-Lane,1888,0.02986,PLM,
+PLM Not Metered 3-Lane,1888.2,0.03032,PLM,
+PLM Not Metered 3-Lane,1891.168,0.03079,PLM,
+PLM Not Metered 3-Lane,1892,0.03127,PLM,
+PLM Not Metered 3-Lane,1895.52,0.03176,PLM,
+PLM Not Metered 3-Lane,1896,0.03226,PLM,
+PLM Not Metered 3-Lane,1899.536,0.03277,PLM,
+PLM Not Metered 3-Lane,1900,0.03329,PLM,
+PLM Not Metered 3-Lane,1900.644,0.03381,PLM,
+PLM Not Metered 3-Lane,1903.356,0.03433,PLM,
+PLM Not Metered 3-Lane,1904.896,0.03487,PLM,
+PLM Not Metered 3-Lane,1905,0.03541,PLM,
+PLM Not Metered 3-Lane,1907.36,0.03596,PLM,
+PLM Not Metered 3-Lane,1907.904,0.0365,PLM,
+PLM Not Metered 3-Lane,1908.632,0.03706,PLM,
+PLM Not Metered 3-Lane,1912,0.03762,PLM,
+PLM Not Metered 3-Lane,1912,0.03819,PLM,
+PLM Not Metered 3-Lane,1914,0.03876,PLM,
+PLM Not Metered 3-Lane,1914,0.03934,PLM,
+PLM Not Metered 3-Lane,1915.2,0.03992,PLM,
+PLM Not Metered 3-Lane,1916,0.0405,PLM,
+PLM Not Metered 3-Lane,1916.272,0.04109,PLM,
+PLM Not Metered 3-Lane,1920,0.0417,PLM,
+PLM Not Metered 3-Lane,1920.1,0.04231,PLM,
+PLM Not Metered 3-Lane,1923.696,0.04294,PLM,
+PLM Not Metered 3-Lane,1923.696,0.04356,PLM,
+PLM Not Metered 3-Lane,1923.888,0.04419,PLM,
+PLM Not Metered 3-Lane,1927.264,0.04483,PLM,
+PLM Not Metered 3-Lane,1928,0.04549,PLM,
+PLM Not Metered 3-Lane,1931.4,0.04617,PLM,
+PLM Not Metered 3-Lane,1932,0.04684,PLM,
+PLM Not Metered 3-Lane,1932,0.04752,PLM,
+PLM Not Metered 3-Lane,1932,0.04821,PLM,
+PLM Not Metered 3-Lane,1932.224,0.0489,PLM,
+PLM Not Metered 3-Lane,1935.216,0.04961,PLM,
+PLM Not Metered 3-Lane,1938,0.05034,PLM,
+PLM Not Metered 3-Lane,1939.3,0.05107,PLM,
+PLM Not Metered 3-Lane,1939.36,0.0518,PLM,
+PLM Not Metered 3-Lane,1943.12,0.05256,PLM,
+PLM Not Metered 3-Lane,1943.12,0.05331,PLM,
+PLM Not Metered 3-Lane,1944,0.05408,PLM,
+PLM Not Metered 3-Lane,1944,0.05485,PLM,
+PLM Not Metered 3-Lane,1944.324,0.05562,PLM,
+PLM Not Metered 3-Lane,1944.588,0.0564,PLM,
+PLM Not Metered 3-Lane,1947.792,0.0572,PLM,
+PLM Not Metered 3-Lane,1947.9,0.058,PLM,
+PLM Not Metered 3-Lane,1948,0.05879,PLM,
+PLM Not Metered 3-Lane,1950,0.05961,PLM,
+PLM Not Metered 3-Lane,1952,0.06043,PLM,
+PLM Not Metered 3-Lane,1952.496,0.06127,PLM,
+PLM Not Metered 3-Lane,1952.86,0.0621,PLM,
+PLM Not Metered 3-Lane,1953,0.06295,PLM,
+PLM Not Metered 3-Lane,1955.336,0.06379,PLM,
+PLM Not Metered 3-Lane,1955.336,0.06464,PLM,
+PLM Not Metered 3-Lane,1955.376,0.06549,PLM,
+PLM Not Metered 3-Lane,1955.92,0.06634,PLM,
+PLM Not Metered 3-Lane,1956.22,0.06721,PLM,
+PLM Not Metered 3-Lane,1956.576,0.06808,PLM,
+PLM Not Metered 3-Lane,1959.936,0.06897,PLM,
+PLM Not Metered 3-Lane,1960.24,0.06987,PLM,
+PLM Not Metered 3-Lane,1963.12,0.07078,PLM,
+PLM Not Metered 3-Lane,1963.12,0.0717,PLM,
+PLM Not Metered 3-Lane,1963.904,0.07262,PLM,
+PLM Not Metered 3-Lane,1964,0.07356,PLM,
+PLM Not Metered 3-Lane,1968,0.07451,PLM,
+PLM Not Metered 3-Lane,1968,0.07547,PLM,
+PLM Not Metered 3-Lane,1968.096,0.07644,PLM,
+PLM Not Metered 3-Lane,1972.112,0.07743,PLM,
+PLM Not Metered 3-Lane,1972.548,0.07844,PLM,
+PLM Not Metered 3-Lane,1974,0.07945,PLM,
+PLM Not Metered 3-Lane,1974,0.08046,PLM,
+PLM Not Metered 3-Lane,1974,0.08147,PLM,
+PLM Not Metered 3-Lane,1976,0.0825,PLM,
+PLM Not Metered 3-Lane,1977,0.08354,PLM,
+PLM Not Metered 3-Lane,1980,0.08461,PLM,
+PLM Not Metered 3-Lane,1980,0.08568,PLM,
+PLM Not Metered 3-Lane,1983.36,0.08678,PLM,
+PLM Not Metered 3-Lane,1983.492,0.08789,PLM,
+PLM Not Metered 3-Lane,1983.52,0.089,PLM,
+PLM Not Metered 3-Lane,1984.144,0.09012,PLM,
+PLM Not Metered 3-Lane,1987.16,0.09126,PLM,
+PLM Not Metered 3-Lane,1987.768,0.09241,PLM,
+PLM Not Metered 3-Lane,1988.448,0.09359,PLM,
+PLM Not Metered 3-Lane,1992.152,0.09484,PLM,
+PLM Not Metered 3-Lane,1995,0.0961,PLM,
+PLM Not Metered 3-Lane,1995,0.09736,PLM,
+PLM Not Metered 3-Lane,1996,0.09864,PLM,
+PLM Not Metered 3-Lane,1996.064,0.09993,PLM,
+PLM Not Metered 3-Lane,1998,0.10125,PLM,
+PLM Not Metered 3-Lane,2004,0.10267,PLM,
+PLM Not Metered 3-Lane,2004.912,0.10412,PLM,
+PLM Not Metered 3-Lane,2007,0.10557,PLM,
+PLM Not Metered 3-Lane,2007,0.10702,PLM,
+PLM Not Metered 3-Lane,2007.6,0.10849,PLM,
+PLM Not Metered 3-Lane,2007.6,0.10995,PLM,
+PLM Not Metered 3-Lane,2010,0.11144,PLM,
+PLM Not Metered 3-Lane,2011.072,0.11293,PLM,
+PLM Not Metered 3-Lane,2011.196,0.11442,PLM,
+PLM Not Metered 3-Lane,2011.8,0.11592,PLM,
+PLM Not Metered 3-Lane,2012.256,0.11744,PLM,
+PLM Not Metered 3-Lane,2012.284,0.11897,PLM,
+PLM Not Metered 3-Lane,2013,0.1205,PLM,
+PLM Not Metered 3-Lane,2013,0.12204,PLM,
+PLM Not Metered 3-Lane,2016,0.12362,PLM,
+PLM Not Metered 3-Lane,2019.84,0.12526,PLM,
+PLM Not Metered 3-Lane,2022,0.12694,PLM,
+PLM Not Metered 3-Lane,2023.704,0.12863,PLM,
+PLM Not Metered 3-Lane,2023.936,0.13032,PLM,
+PLM Not Metered 3-Lane,2024,0.13203,PLM,
+PLM Not Metered 3-Lane,2027.128,0.13377,PLM,
+PLM Not Metered 3-Lane,2028,0.13556,PLM,
+PLM Not Metered 3-Lane,2028,0.13734,PLM,
+PLM Not Metered 3-Lane,2031.48,0.13921,PLM,
+PLM Not Metered 3-Lane,2035.46,0.14113,PLM,
+PLM Not Metered 3-Lane,2039.44,0.14316,PLM,
+PLM Not Metered 3-Lane,2040,0.14523,PLM,
+PLM Not Metered 3-Lane,2040,0.1473,PLM,
+PLM Not Metered 3-Lane,2040.36,0.14938,PLM,
+PLM Not Metered 3-Lane,2040.88,0.15147,PLM,
+PLM Not Metered 3-Lane,2046,0.1537,PLM,
+PLM Not Metered 3-Lane,2046,0.15592,PLM,
+PLM Not Metered 3-Lane,2048,0.15816,PLM,
+PLM Not Metered 3-Lane,2049,0.16043,PLM,
+PLM Not Metered 3-Lane,2049,0.1627,PLM,
+PLM Not Metered 3-Lane,2052.12,0.16505,PLM,
+PLM Not Metered 3-Lane,2056.752,0.1675,PLM,
+PLM Not Metered 3-Lane,2059.668,0.17,PLM,
+PLM Not Metered 3-Lane,2060,0.17254,PLM,
+PLM Not Metered 3-Lane,2064,0.1752,PLM,
+PLM Not Metered 3-Lane,2064,0.17786,PLM,
+PLM Not Metered 3-Lane,2067,0.1806,PLM,
+PLM Not Metered 3-Lane,2067.492,0.18335,PLM,
+PLM Not Metered 3-Lane,2068,0.18612,PLM,
+PLM Not Metered 3-Lane,2068.628,0.18891,PLM,
+PLM Not Metered 3-Lane,2070,0.19173,PLM,
+PLM Not Metered 3-Lane,2070,0.19456,PLM,
+PLM Not Metered 3-Lane,2070,0.19738,PLM,
+PLM Not Metered 3-Lane,2072.572,0.20026,PLM,
+PLM Not Metered 3-Lane,2073,0.20319,PLM,
+PLM Not Metered 3-Lane,2073,0.20613,PLM,
+PLM Not Metered 3-Lane,2076.516,0.20918,PLM,
+PLM Not Metered 3-Lane,2082,0.21242,PLM,
+PLM Not Metered 3-Lane,2085,0.2158,PLM,
+PLM Not Metered 3-Lane,2085,0.21918,PLM,
+PLM Not Metered 3-Lane,2085,0.22256,PLM,
+PLM Not Metered 3-Lane,2088,0.22604,PLM,
+PLM Not Metered 3-Lane,2088,0.22951,PLM,
+PLM Not Metered 3-Lane,2088,0.23298,PLM,
+PLM Not Metered 3-Lane,2091,0.23653,PLM,
+PLM Not Metered 3-Lane,2092.552,0.24022,PLM,
+PLM Not Metered 3-Lane,2094,0.24398,PLM,
+PLM Not Metered 3-Lane,2099.08,0.24794,PLM,
+PLM Not Metered 3-Lane,2100.78,0.25202,PLM,
+PLM Not Metered 3-Lane,2103,0.2562,PLM,
+PLM Not Metered 3-Lane,2106,0.26045,PLM,
+PLM Not Metered 3-Lane,2106,0.2647,PLM,
+PLM Not Metered 3-Lane,2109,0.26903,PLM,
+PLM Not Metered 3-Lane,2109,0.27335,PLM,
+PLM Not Metered 3-Lane,2112,0.27773,PLM,
+PLM Not Metered 3-Lane,2112,0.28222,PLM,
+PLM Not Metered 3-Lane,2115,0.28688,PLM,
+PLM Not Metered 3-Lane,2119.424,0.29183,PLM,
+PLM Not Metered 3-Lane,2119.752,0.29682,PLM,
+PLM Not Metered 3-Lane,2120.648,0.30184,PLM,
+PLM Not Metered 3-Lane,2121,0.30701,PLM,
+PLM Not Metered 3-Lane,2130,0.31283,PLM,
+PLM Not Metered 3-Lane,2131.728,0.31866,PLM,
+PLM Not Metered 3-Lane,2132,0.32448,PLM,
+PLM Not Metered 3-Lane,2136,0.33046,PLM,
+PLM Not Metered 3-Lane,2136.064,0.33644,PLM,
+PLM Not Metered 3-Lane,2136.132,0.34242,PLM,
+PLM Not Metered 3-Lane,2139,0.34839,PLM,
+PLM Not Metered 3-Lane,2139,0.35437,PLM,
+PLM Not Metered 3-Lane,2142,0.36064,PLM,
+PLM Not Metered 3-Lane,2145,0.36691,PLM,
+PLM Not Metered 3-Lane,2145,0.37337,PLM,
+PLM Not Metered 3-Lane,2147.464,0.37983,PLM,
+PLM Not Metered 3-Lane,2151.024,0.38664,PLM,
+PLM Not Metered 3-Lane,2151.3,0.39346,PLM,
+PLM Not Metered 3-Lane,2154,0.40043,PLM,
+PLM Not Metered 3-Lane,2156.88,0.40802,PLM,
+PLM Not Metered 3-Lane,2163,0.4166,PLM,
+PLM Not Metered 3-Lane,2163.656,0.42518,PLM,
+PLM Not Metered 3-Lane,2169,0.43389,PLM,
+PLM Not Metered 3-Lane,2169,0.44273,PLM,
+PLM Not Metered 3-Lane,2169,0.45158,PLM,
+PLM Not Metered 3-Lane,2172,0.46057,PLM,
+PLM Not Metered 3-Lane,2175,0.4702,PLM,
+PLM Not Metered 3-Lane,2176,0.4802,PLM,
+PLM Not Metered 3-Lane,2193,0.49257,PLM,
+PLM Not Metered 3-Lane,2196,0.50495,PLM,
+PLM Not Metered 3-Lane,2205,0.5187,PLM,
+PLM Not Metered 3-Lane,2214,0.53286,PLM,
+PLM Not Metered 3-Lane,2217,0.54746,PLM,
+PLM Not Metered 3-Lane,2223.828,0.56306,PLM,
+PLM Not Metered 3-Lane,2232,0.58127,PLM,
+PLM Not Metered 3-Lane,2241,0.6003,PLM,
+PLM Not Metered 3-Lane,2241,0.61933,PLM,
+PLM Not Metered 3-Lane,2244,0.63937,PLM,
+PLM Not Metered 3-Lane,2268,0.66513,PLM,
+PLM Not Metered 3-Lane,2268,0.69089,PLM,
+PLM Not Metered 3-Lane,2271,0.71665,PLM,
+PLM Not Metered 3-Lane,2271,0.74241,PLM,
+PLM Not Metered 3-Lane,2276.256,0.77103,PLM,
+PLM Not Metered 3-Lane,2280,0.80374,PLM,
+PLM Not Metered 3-Lane,2295,0.84299,PLM,
+PLM Not Metered 3-Lane,2325,0.89533,PLM,
+PLM Not Metered 3-Lane,2361,0.94766,PLM,
+PLM Not Metered 3-Lane,2385,1,PLM,
+PLM Not Metered 4-Lane,1215.234,0.00003,PLM,
+PLM Not Metered 4-Lane,1224.549,0.00005,PLM,
+PLM Not Metered 4-Lane,1226.514,0.00008,PLM,
+PLM Not Metered 4-Lane,1311.114,0.00011,PLM,
+PLM Not Metered 4-Lane,1325.88,0.00014,PLM,
+PLM Not Metered 4-Lane,1325.952,0.00017,PLM,
+PLM Not Metered 4-Lane,1329,0.0002,PLM,
+PLM Not Metered 4-Lane,1344.18,0.00024,PLM,
+PLM Not Metered 4-Lane,1374,0.00027,PLM,
+PLM Not Metered 4-Lane,1374,0.00031,PLM,
+PLM Not Metered 4-Lane,1421.796,0.00035,PLM,
+PLM Not Metered 4-Lane,1452,0.0004,PLM,
+PLM Not Metered 4-Lane,1452.195,0.00044,PLM,
+PLM Not Metered 4-Lane,1454.772,0.00049,PLM,
+PLM Not Metered 4-Lane,1464,0.00054,PLM,
+PLM Not Metered 4-Lane,1490.4,0.00059,PLM,
+PLM Not Metered 4-Lane,1509,0.00064,PLM,
+PLM Not Metered 4-Lane,1515.036,0.0007,PLM,
+PLM Not Metered 4-Lane,1524,0.00075,PLM,
+PLM Not Metered 4-Lane,1542,0.00082,PLM,
+PLM Not Metered 4-Lane,1542.138,0.00088,PLM,
+PLM Not Metered 4-Lane,1547.784,0.00094,PLM,
+PLM Not Metered 4-Lane,1557.36,0.00101,PLM,
+PLM Not Metered 4-Lane,1566,0.00107,PLM,
+PLM Not Metered 4-Lane,1581.72,0.00115,PLM,
+PLM Not Metered 4-Lane,1584.072,0.00122,PLM,
+PLM Not Metered 4-Lane,1599.021,0.0013,PLM,
+PLM Not Metered 4-Lane,1607.727,0.00138,PLM,
+PLM Not Metered 4-Lane,1617,0.00147,PLM,
+PLM Not Metered 4-Lane,1620,0.00155,PLM,
+PLM Not Metered 4-Lane,1628.424,0.00164,PLM,
+PLM Not Metered 4-Lane,1628.64,0.00173,PLM,
+PLM Not Metered 4-Lane,1632.075,0.00183,PLM,
+PLM Not Metered 4-Lane,1632.204,0.00192,PLM,
+PLM Not Metered 4-Lane,1640.52,0.00201,PLM,
+PLM Not Metered 4-Lane,1640.958,0.00211,PLM,
+PLM Not Metered 4-Lane,1641.168,0.00221,PLM,
+PLM Not Metered 4-Lane,1641.438,0.00231,PLM,
+PLM Not Metered 4-Lane,1643.88,0.0024,PLM,
+PLM Not Metered 4-Lane,1646.442,0.0025,PLM,
+PLM Not Metered 4-Lane,1650,0.0026,PLM,
+PLM Not Metered 4-Lane,1650.78,0.00271,PLM,
+PLM Not Metered 4-Lane,1653.456,0.00281,PLM,
+PLM Not Metered 4-Lane,1655.964,0.00292,PLM,
+PLM Not Metered 4-Lane,1659,0.00302,PLM,
+PLM Not Metered 4-Lane,1659.438,0.00313,PLM,
+PLM Not Metered 4-Lane,1661.616,0.00324,PLM,
+PLM Not Metered 4-Lane,1661.952,0.00335,PLM,
+PLM Not Metered 4-Lane,1662,0.00345,PLM,
+PLM Not Metered 4-Lane,1668.462,0.00357,PLM,
+PLM Not Metered 4-Lane,1668.66,0.00368,PLM,
+PLM Not Metered 4-Lane,1670.553,0.00379,PLM,
+PLM Not Metered 4-Lane,1674,0.00391,PLM,
+PLM Not Metered 4-Lane,1679.94,0.00403,PLM,
+PLM Not Metered 4-Lane,1680.003,0.00415,PLM,
+PLM Not Metered 4-Lane,1682.226,0.00427,PLM,
+PLM Not Metered 4-Lane,1683,0.0044,PLM,
+PLM Not Metered 4-Lane,1683,0.00452,PLM,
+PLM Not Metered 4-Lane,1683.552,0.00464,PLM,
+PLM Not Metered 4-Lane,1683.726,0.00477,PLM,
+PLM Not Metered 4-Lane,1683.747,0.00489,PLM,
+PLM Not Metered 4-Lane,1686.162,0.00502,PLM,
+PLM Not Metered 4-Lane,1692.054,0.00515,PLM,
+PLM Not Metered 4-Lane,1692.672,0.00528,PLM,
+PLM Not Metered 4-Lane,1694.55,0.00541,PLM,
+PLM Not Metered 4-Lane,1695,0.00555,PLM,
+PLM Not Metered 4-Lane,1695.153,0.00568,PLM,
+PLM Not Metered 4-Lane,1701,0.00582,PLM,
+PLM Not Metered 4-Lane,1701.336,0.00596,PLM,
+PLM Not Metered 4-Lane,1701.36,0.0061,PLM,
+PLM Not Metered 4-Lane,1704.384,0.00624,PLM,
+PLM Not Metered 4-Lane,1707.072,0.00638,PLM,
+PLM Not Metered 4-Lane,1709.922,0.00653,PLM,
+PLM Not Metered 4-Lane,1712.88,0.00668,PLM,
+PLM Not Metered 4-Lane,1716,0.00683,PLM,
+PLM Not Metered 4-Lane,1716,0.00698,PLM,
+PLM Not Metered 4-Lane,1716.12,0.00714,PLM,
+PLM Not Metered 4-Lane,1716.372,0.00729,PLM,
+PLM Not Metered 4-Lane,1718.952,0.00745,PLM,
+PLM Not Metered 4-Lane,1721.538,0.00761,PLM,
+PLM Not Metered 4-Lane,1722.6,0.00777,PLM,
+PLM Not Metered 4-Lane,1724.469,0.00793,PLM,
+PLM Not Metered 4-Lane,1724.469,0.00809,PLM,
+PLM Not Metered 4-Lane,1725.321,0.00825,PLM,
+PLM Not Metered 4-Lane,1725.36,0.00842,PLM,
+PLM Not Metered 4-Lane,1727.847,0.00858,PLM,
+PLM Not Metered 4-Lane,1733.265,0.00876,PLM,
+PLM Not Metered 4-Lane,1733.49,0.00893,PLM,
+PLM Not Metered 4-Lane,1733.721,0.00911,PLM,
+PLM Not Metered 4-Lane,1734.72,0.00928,PLM,
+PLM Not Metered 4-Lane,1736.376,0.00946,PLM,
+PLM Not Metered 4-Lane,1736.982,0.00964,PLM,
+PLM Not Metered 4-Lane,1737.36,0.00982,PLM,
+PLM Not Metered 4-Lane,1739.52,0.01,PLM,
+PLM Not Metered 4-Lane,1739.925,0.01018,PLM,
+PLM Not Metered 4-Lane,1739.925,0.01036,PLM,
+PLM Not Metered 4-Lane,1740.222,0.01055,PLM,
+PLM Not Metered 4-Lane,1742.262,0.01073,PLM,
+PLM Not Metered 4-Lane,1743.156,0.01092,PLM,
+PLM Not Metered 4-Lane,1748.736,0.01112,PLM,
+PLM Not Metered 4-Lane,1748.94,0.01131,PLM,
+PLM Not Metered 4-Lane,1749.504,0.01151,PLM,
+PLM Not Metered 4-Lane,1752.3,0.01171,PLM,
+PLM Not Metered 4-Lane,1752.336,0.01191,PLM,
+PLM Not Metered 4-Lane,1752.399,0.01212,PLM,
+PLM Not Metered 4-Lane,1754.4,0.01232,PLM,
+PLM Not Metered 4-Lane,1754.604,0.01252,PLM,
+PLM Not Metered 4-Lane,1757.4,0.01273,PLM,
+PLM Not Metered 4-Lane,1757.436,0.01294,PLM,
+PLM Not Metered 4-Lane,1757.715,0.01315,PLM,
+PLM Not Metered 4-Lane,1758.24,0.01336,PLM,
+PLM Not Metered 4-Lane,1758.249,0.01358,PLM,
+PLM Not Metered 4-Lane,1761.3,0.01379,PLM,
+PLM Not Metered 4-Lane,1763.316,0.01401,PLM,
+PLM Not Metered 4-Lane,1763.46,0.01423,PLM,
+PLM Not Metered 4-Lane,1763.937,0.01445,PLM,
+PLM Not Metered 4-Lane,1766.19,0.01468,PLM,
+PLM Not Metered 4-Lane,1769.529,0.01491,PLM,
+PLM Not Metered 4-Lane,1769.85,0.01514,PLM,
+PLM Not Metered 4-Lane,1769.85,0.01538,PLM,
+PLM Not Metered 4-Lane,1770.516,0.01561,PLM,
+PLM Not Metered 4-Lane,1775.235,0.01586,PLM,
+PLM Not Metered 4-Lane,1775.562,0.0161,PLM,
+PLM Not Metered 4-Lane,1775.727,0.01635,PLM,
+PLM Not Metered 4-Lane,1776.006,0.0166,PLM,
+PLM Not Metered 4-Lane,1776.132,0.01685,PLM,
+PLM Not Metered 4-Lane,1776.489,0.0171,PLM,
+PLM Not Metered 4-Lane,1776.6,0.01735,PLM,
+PLM Not Metered 4-Lane,1779.03,0.01761,PLM,
+PLM Not Metered 4-Lane,1779.165,0.01786,PLM,
+PLM Not Metered 4-Lane,1781.199,0.01812,PLM,
+PLM Not Metered 4-Lane,1781.328,0.01838,PLM,
+PLM Not Metered 4-Lane,1781.934,0.01864,PLM,
+PLM Not Metered 4-Lane,1782.48,0.01891,PLM,
+PLM Not Metered 4-Lane,1782.648,0.01917,PLM,
+PLM Not Metered 4-Lane,1784.835,0.01944,PLM,
+PLM Not Metered 4-Lane,1785.06,0.01971,PLM,
+PLM Not Metered 4-Lane,1785.24,0.01998,PLM,
+PLM Not Metered 4-Lane,1785.522,0.02025,PLM,
+PLM Not Metered 4-Lane,1788,0.02053,PLM,
+PLM Not Metered 4-Lane,1790.46,0.02081,PLM,
+PLM Not Metered 4-Lane,1790.55,0.02109,PLM,
+PLM Not Metered 4-Lane,1790.55,0.02138,PLM,
+PLM Not Metered 4-Lane,1790.976,0.02166,PLM,
+PLM Not Metered 4-Lane,1791.453,0.02195,PLM,
+PLM Not Metered 4-Lane,1791.855,0.02224,PLM,
+PLM Not Metered 4-Lane,1793.583,0.02253,PLM,
+PLM Not Metered 4-Lane,1793.664,0.02282,PLM,
+PLM Not Metered 4-Lane,1794.324,0.02312,PLM,
+PLM Not Metered 4-Lane,1794.39,0.02342,PLM,
+PLM Not Metered 4-Lane,1794.474,0.02371,PLM,
+PLM Not Metered 4-Lane,1794.654,0.02401,PLM,
+PLM Not Metered 4-Lane,1794.654,0.02431,PLM,
+PLM Not Metered 4-Lane,1797.12,0.02461,PLM,
+PLM Not Metered 4-Lane,1797.42,0.02492,PLM,
+PLM Not Metered 4-Lane,1797.42,0.02522,PLM,
+PLM Not Metered 4-Lane,1797.45,0.02552,PLM,
+PLM Not Metered 4-Lane,1797.516,0.02583,PLM,
+PLM Not Metered 4-Lane,1797.822,0.02613,PLM,
+PLM Not Metered 4-Lane,1799.343,0.02644,PLM,
+PLM Not Metered 4-Lane,1799.721,0.02675,PLM,
+PLM Not Metered 4-Lane,1799.892,0.02706,PLM,
+PLM Not Metered 4-Lane,1800,0.02737,PLM,
+PLM Not Metered 4-Lane,1802.34,0.02769,PLM,
+PLM Not Metered 4-Lane,1802.592,0.02801,PLM,
+PLM Not Metered 4-Lane,1803.45,0.02833,PLM,
+PLM Not Metered 4-Lane,1803.69,0.02866,PLM,
+PLM Not Metered 4-Lane,1805.931,0.02899,PLM,
+PLM Not Metered 4-Lane,1806,0.02932,PLM,
+PLM Not Metered 4-Lane,1806.246,0.02965,PLM,
+PLM Not Metered 4-Lane,1806.441,0.02999,PLM,
+PLM Not Metered 4-Lane,1806.669,0.03032,PLM,
+PLM Not Metered 4-Lane,1806.669,0.03066,PLM,
+PLM Not Metered 4-Lane,1806.828,0.03099,PLM,
+PLM Not Metered 4-Lane,1808.352,0.03133,PLM,
+PLM Not Metered 4-Lane,1808.388,0.03167,PLM,
+PLM Not Metered 4-Lane,1808.91,0.03201,PLM,
+PLM Not Metered 4-Lane,1809,0.03235,PLM,
+PLM Not Metered 4-Lane,1809,0.03269,PLM,
+PLM Not Metered 4-Lane,1811.376,0.03304,PLM,
+PLM Not Metered 4-Lane,1812.006,0.0334,PLM,
+PLM Not Metered 4-Lane,1812.069,0.03375,PLM,
+PLM Not Metered 4-Lane,1812.549,0.03411,PLM,
+PLM Not Metered 4-Lane,1814.994,0.03448,PLM,
+PLM Not Metered 4-Lane,1820.919,0.03486,PLM,
+PLM Not Metered 4-Lane,1823.445,0.03526,PLM,
+PLM Not Metered 4-Lane,1824.636,0.03566,PLM,
+PLM Not Metered 4-Lane,1826.19,0.03607,PLM,
+PLM Not Metered 4-Lane,1827,0.03649,PLM,
+PLM Not Metered 4-Lane,1827.297,0.03691,PLM,
+PLM Not Metered 4-Lane,1827.624,0.03733,PLM,
+PLM Not Metered 4-Lane,1827.705,0.03775,PLM,
+PLM Not Metered 4-Lane,1829.346,0.03817,PLM,
+PLM Not Metered 4-Lane,1829.796,0.0386,PLM,
+PLM Not Metered 4-Lane,1830.591,0.03903,PLM,
+PLM Not Metered 4-Lane,1830.744,0.03947,PLM,
+PLM Not Metered 4-Lane,1832.517,0.03991,PLM,
+PLM Not Metered 4-Lane,1833.468,0.04036,PLM,
+PLM Not Metered 4-Lane,1835.379,0.04081,PLM,
+PLM Not Metered 4-Lane,1835.943,0.04127,PLM,
+PLM Not Metered 4-Lane,1836,0.04173,PLM,
+PLM Not Metered 4-Lane,1836.45,0.04219,PLM,
+PLM Not Metered 4-Lane,1836.591,0.04266,PLM,
+PLM Not Metered 4-Lane,1838.55,0.04314,PLM,
+PLM Not Metered 4-Lane,1839,0.04361,PLM,
+PLM Not Metered 4-Lane,1839.399,0.0441,PLM,
+PLM Not Metered 4-Lane,1841.4,0.04459,PLM,
+PLM Not Metered 4-Lane,1841.562,0.04508,PLM,
+PLM Not Metered 4-Lane,1841.616,0.04557,PLM,
+PLM Not Metered 4-Lane,1842.006,0.04606,PLM,
+PLM Not Metered 4-Lane,1845,0.04657,PLM,
+PLM Not Metered 4-Lane,1845.144,0.04708,PLM,
+PLM Not Metered 4-Lane,1845.18,0.04759,PLM,
+PLM Not Metered 4-Lane,1845.216,0.0481,PLM,
+PLM Not Metered 4-Lane,1845.837,0.04862,PLM,
+PLM Not Metered 4-Lane,1847.766,0.04914,PLM,
+PLM Not Metered 4-Lane,1847.808,0.04966,PLM,
+PLM Not Metered 4-Lane,1848.24,0.05019,PLM,
+PLM Not Metered 4-Lane,1848.312,0.05071,PLM,
+PLM Not Metered 4-Lane,1848.708,0.05125,PLM,
+PLM Not Metered 4-Lane,1848.816,0.05178,PLM,
+PLM Not Metered 4-Lane,1851.351,0.05232,PLM,
+PLM Not Metered 4-Lane,1851.642,0.05287,PLM,
+PLM Not Metered 4-Lane,1851.696,0.05342,PLM,
+PLM Not Metered 4-Lane,1853.445,0.05398,PLM,
+PLM Not Metered 4-Lane,1853.466,0.05453,PLM,
+PLM Not Metered 4-Lane,1853.718,0.05509,PLM,
+PLM Not Metered 4-Lane,1853.79,0.05565,PLM,
+PLM Not Metered 4-Lane,1854,0.05621,PLM,
+PLM Not Metered 4-Lane,1856.196,0.05679,PLM,
+PLM Not Metered 4-Lane,1856.553,0.05736,PLM,
+PLM Not Metered 4-Lane,1856.58,0.05794,PLM,
+PLM Not Metered 4-Lane,1859.652,0.05853,PLM,
+PLM Not Metered 4-Lane,1859.895,0.05912,PLM,
+PLM Not Metered 4-Lane,1860.849,0.05973,PLM,
+PLM Not Metered 4-Lane,1862.19,0.06034,PLM,
+PLM Not Metered 4-Lane,1863,0.06097,PLM,
+PLM Not Metered 4-Lane,1863.45,0.06159,PLM,
+PLM Not Metered 4-Lane,1863.54,0.06222,PLM,
+PLM Not Metered 4-Lane,1865.598,0.06286,PLM,
+PLM Not Metered 4-Lane,1865.952,0.0635,PLM,
+PLM Not Metered 4-Lane,1868.328,0.06415,PLM,
+PLM Not Metered 4-Lane,1868.46,0.0648,PLM,
+PLM Not Metered 4-Lane,1869.12,0.06546,PLM,
+PLM Not Metered 4-Lane,1869.3,0.06611,PLM,
+PLM Not Metered 4-Lane,1871.625,0.06679,PLM,
+PLM Not Metered 4-Lane,1872,0.06747,PLM,
+PLM Not Metered 4-Lane,1872.822,0.06816,PLM,
+PLM Not Metered 4-Lane,1874.52,0.06886,PLM,
+PLM Not Metered 4-Lane,1875,0.06956,PLM,
+PLM Not Metered 4-Lane,1875.612,0.07028,PLM,
+PLM Not Metered 4-Lane,1875.834,0.071,PLM,
+PLM Not Metered 4-Lane,1878,0.07173,PLM,
+PLM Not Metered 4-Lane,1878.156,0.07247,PLM,
+PLM Not Metered 4-Lane,1878.726,0.07321,PLM,
+PLM Not Metered 4-Lane,1878.75,0.07395,PLM,
+PLM Not Metered 4-Lane,1881,0.0747,PLM,
+PLM Not Metered 4-Lane,1881,0.07545,PLM,
+PLM Not Metered 4-Lane,1881.306,0.07621,PLM,
+PLM Not Metered 4-Lane,1881.363,0.07697,PLM,
+PLM Not Metered 4-Lane,1881.81,0.07774,PLM,
+PLM Not Metered 4-Lane,1883.97,0.07852,PLM,
+PLM Not Metered 4-Lane,1884.9,0.07932,PLM,
+PLM Not Metered 4-Lane,1886.643,0.08013,PLM,
+PLM Not Metered 4-Lane,1886.712,0.08093,PLM,
+PLM Not Metered 4-Lane,1886.787,0.08174,PLM,
+PLM Not Metered 4-Lane,1887.39,0.08255,PLM,
+PLM Not Metered 4-Lane,1889.28,0.08338,PLM,
+PLM Not Metered 4-Lane,1889.544,0.0842,PLM,
+PLM Not Metered 4-Lane,1889.823,0.08503,PLM,
+PLM Not Metered 4-Lane,1889.874,0.08586,PLM,
+PLM Not Metered 4-Lane,1892.418,0.08672,PLM,
+PLM Not Metered 4-Lane,1895.4,0.08761,PLM,
+PLM Not Metered 4-Lane,1895.835,0.0885,PLM,
+PLM Not Metered 4-Lane,1896.048,0.08941,PLM,
+PLM Not Metered 4-Lane,1896.597,0.09032,PLM,
+PLM Not Metered 4-Lane,1896.669,0.09123,PLM,
+PLM Not Metered 4-Lane,1896.756,0.09214,PLM,
+PLM Not Metered 4-Lane,1898.679,0.09307,PLM,
+PLM Not Metered 4-Lane,1899.45,0.09402,PLM,
+PLM Not Metered 4-Lane,1901.718,0.09499,PLM,
+PLM Not Metered 4-Lane,1902.042,0.09596,PLM,
+PLM Not Metered 4-Lane,1902.195,0.09694,PLM,
+PLM Not Metered 4-Lane,1902.432,0.09792,PLM,
+PLM Not Metered 4-Lane,1911.18,0.099,PLM,
+PLM Not Metered 4-Lane,1911.276,0.10009,PLM,
+PLM Not Metered 4-Lane,1913.064,0.10118,PLM,
+PLM Not Metered 4-Lane,1913.52,0.10228,PLM,
+PLM Not Metered 4-Lane,1913.652,0.10339,PLM,
+PLM Not Metered 4-Lane,1913.871,0.1045,PLM,
+PLM Not Metered 4-Lane,1914,0.10561,PLM,
+PLM Not Metered 4-Lane,1914.336,0.10673,PLM,
+PLM Not Metered 4-Lane,1916.238,0.10786,PLM,
+PLM Not Metered 4-Lane,1916.43,0.109,PLM,
+PLM Not Metered 4-Lane,1916.784,0.11013,PLM,
+PLM Not Metered 4-Lane,1916.784,0.11127,PLM,
+PLM Not Metered 4-Lane,1916.904,0.1124,PLM,
+PLM Not Metered 4-Lane,1917.027,0.11355,PLM,
+PLM Not Metered 4-Lane,1917.036,0.1147,PLM,
+PLM Not Metered 4-Lane,1917.54,0.11586,PLM,
+PLM Not Metered 4-Lane,1919.7,0.11703,PLM,
+PLM Not Metered 4-Lane,1922.544,0.11826,PLM,
+PLM Not Metered 4-Lane,1922.616,0.11948,PLM,
+PLM Not Metered 4-Lane,1922.616,0.12071,PLM,
+PLM Not Metered 4-Lane,1923.48,0.12196,PLM,
+PLM Not Metered 4-Lane,1923.597,0.1232,PLM,
+PLM Not Metered 4-Lane,1923.768,0.12447,PLM,
+PLM Not Metered 4-Lane,1925.262,0.12573,PLM,
+PLM Not Metered 4-Lane,1925.55,0.12701,PLM,
+PLM Not Metered 4-Lane,1926,0.1283,PLM,
+PLM Not Metered 4-Lane,1926.384,0.12959,PLM,
+PLM Not Metered 4-Lane,1926.891,0.13089,PLM,
+PLM Not Metered 4-Lane,1931.283,0.13226,PLM,
+PLM Not Metered 4-Lane,1931.37,0.13363,PLM,
+PLM Not Metered 4-Lane,1931.868,0.13501,PLM,
+PLM Not Metered 4-Lane,1931.994,0.1364,PLM,
+PLM Not Metered 4-Lane,1931.994,0.13778,PLM,
+PLM Not Metered 4-Lane,1932,0.13917,PLM,
+PLM Not Metered 4-Lane,1932.216,0.14056,PLM,
+PLM Not Metered 4-Lane,1932.534,0.14196,PLM,
+PLM Not Metered 4-Lane,1932.546,0.14337,PLM,
+PLM Not Metered 4-Lane,1932.753,0.14478,PLM,
+PLM Not Metered 4-Lane,1935.216,0.14623,PLM,
+PLM Not Metered 4-Lane,1935.648,0.14769,PLM,
+PLM Not Metered 4-Lane,1937.34,0.14917,PLM,
+PLM Not Metered 4-Lane,1937.988,0.15067,PLM,
+PLM Not Metered 4-Lane,1940.652,0.15222,PLM,
+PLM Not Metered 4-Lane,1941,0.1538,PLM,
+PLM Not Metered 4-Lane,1944,0.15543,PLM,
+PLM Not Metered 4-Lane,1947,0.15714,PLM,
+PLM Not Metered 4-Lane,1947.192,0.15885,PLM,
+PLM Not Metered 4-Lane,1947.288,0.16056,PLM,
+PLM Not Metered 4-Lane,1949.103,0.16231,PLM,
+PLM Not Metered 4-Lane,1952.496,0.16413,PLM,
+PLM Not Metered 4-Lane,1952.64,0.16598,PLM,
+PLM Not Metered 4-Lane,1953.6,0.16789,PLM,
+PLM Not Metered 4-Lane,1955.715,0.16982,PLM,
+PLM Not Metered 4-Lane,1956.495,0.17181,PLM,
+PLM Not Metered 4-Lane,1956.771,0.17379,PLM,
+PLM Not Metered 4-Lane,1959,0.17583,PLM,
+PLM Not Metered 4-Lane,1959,0.17787,PLM,
+PLM Not Metered 4-Lane,1961.304,0.17997,PLM,
+PLM Not Metered 4-Lane,1961.85,0.1821,PLM,
+PLM Not Metered 4-Lane,1961.928,0.18424,PLM,
+PLM Not Metered 4-Lane,1962,0.18639,PLM,
+PLM Not Metered 4-Lane,1962.198,0.18855,PLM,
+PLM Not Metered 4-Lane,1964.928,0.1908,PLM,
+PLM Not Metered 4-Lane,1965,0.19308,PLM,
+PLM Not Metered 4-Lane,1967.889,0.19543,PLM,
+PLM Not Metered 4-Lane,1968.192,0.1978,PLM,
+PLM Not Metered 4-Lane,1968.192,0.20018,PLM,
+PLM Not Metered 4-Lane,1970.496,0.20259,PLM,
+PLM Not Metered 4-Lane,1971.162,0.20503,PLM,
+PLM Not Metered 4-Lane,1973.334,0.20753,PLM,
+PLM Not Metered 4-Lane,1973.367,0.21003,PLM,
+PLM Not Metered 4-Lane,1973.4,0.21254,PLM,
+PLM Not Metered 4-Lane,1973.76,0.21507,PLM,
+PLM Not Metered 4-Lane,1973.991,0.2176,PLM,
+PLM Not Metered 4-Lane,1976.178,0.22022,PLM,
+PLM Not Metered 4-Lane,1976.427,0.22285,PLM,
+PLM Not Metered 4-Lane,1976.688,0.22547,PLM,
+PLM Not Metered 4-Lane,1976.832,0.22813,PLM,
+PLM Not Metered 4-Lane,1976.931,0.23079,PLM,
+PLM Not Metered 4-Lane,1977,0.23347,PLM,
+PLM Not Metered 4-Lane,1979.295,0.23619,PLM,
+PLM Not Metered 4-Lane,1979.295,0.23892,PLM,
+PLM Not Metered 4-Lane,1985.112,0.24189,PLM,
+PLM Not Metered 4-Lane,1985.139,0.24488,PLM,
+PLM Not Metered 4-Lane,1985.757,0.24795,PLM,
+PLM Not Metered 4-Lane,1986.966,0.2511,PLM,
+PLM Not Metered 4-Lane,1989.936,0.25442,PLM,
+PLM Not Metered 4-Lane,1989.96,0.25775,PLM,
+PLM Not Metered 4-Lane,1991.262,0.26111,PLM,
+PLM Not Metered 4-Lane,1991.43,0.26447,PLM,
+PLM Not Metered 4-Lane,1992.276,0.26787,PLM,
+PLM Not Metered 4-Lane,1992.978,0.27133,PLM,
+PLM Not Metered 4-Lane,1994.388,0.2748,PLM,
+PLM Not Metered 4-Lane,1995.456,0.27837,PLM,
+PLM Not Metered 4-Lane,1995.714,0.28194,PLM,
+PLM Not Metered 4-Lane,1995.813,0.28553,PLM,
+PLM Not Metered 4-Lane,2001.24,0.28944,PLM,
+PLM Not Metered 4-Lane,2003.112,0.29338,PLM,
+PLM Not Metered 4-Lane,2004.06,0.29745,PLM,
+PLM Not Metered 4-Lane,2004.843,0.30158,PLM,
+PLM Not Metered 4-Lane,2007.243,0.30581,PLM,
+PLM Not Metered 4-Lane,2009.706,0.3102,PLM,
+PLM Not Metered 4-Lane,2010.018,0.31468,PLM,
+PLM Not Metered 4-Lane,2010.762,0.31916,PLM,
+PLM Not Metered 4-Lane,2012.391,0.32373,PLM,
+PLM Not Metered 4-Lane,2016.738,0.32863,PLM,
+PLM Not Metered 4-Lane,2018.028,0.33353,PLM,
+PLM Not Metered 4-Lane,2019.108,0.33866,PLM,
+PLM Not Metered 4-Lane,2019.867,0.34379,PLM,
+PLM Not Metered 4-Lane,2027.916,0.3494,PLM,
+PLM Not Metered 4-Lane,2030.4,0.35526,PLM,
+PLM Not Metered 4-Lane,2034.576,0.36164,PLM,
+PLM Not Metered 4-Lane,2034.9,0.36802,PLM,
+PLM Not Metered 4-Lane,2045.043,0.37537,PLM,
+PLM Not Metered 4-Lane,2045.439,0.38272,PLM,
+PLM Not Metered 4-Lane,2046,0.39007,PLM,
+PLM Not Metered 4-Lane,2049.72,0.3981,PLM,
+PLM Not Metered 4-Lane,2051.397,0.40612,PLM,
+PLM Not Metered 4-Lane,2051.46,0.41415,PLM,
+PLM Not Metered 4-Lane,2051.811,0.4224,PLM,
+PLM Not Metered 4-Lane,2052.33,0.43077,PLM,
+PLM Not Metered 4-Lane,2055.168,0.43926,PLM,
+PLM Not Metered 4-Lane,2057.46,0.44831,PLM,
+PLM Not Metered 4-Lane,2060.625,0.45834,PLM,
+PLM Not Metered 4-Lane,2061.27,0.46856,PLM,
+PLM Not Metered 4-Lane,2064.384,0.47963,PLM,
+PLM Not Metered 4-Lane,2069.1,0.49119,PLM,
+PLM Not Metered 4-Lane,2072.772,0.5036,PLM,
+PLM Not Metered 4-Lane,2079,0.51779,PLM,
+PLM Not Metered 4-Lane,2088.168,0.53386,PLM,
+PLM Not Metered 4-Lane,2094.624,0.55051,PLM,
+PLM Not Metered 4-Lane,2114.628,0.57005,PLM,
+PLM Not Metered 4-Lane,2114.721,0.59053,PLM,
+PLM Not Metered 4-Lane,2115.057,0.611,PLM,
+PLM Not Metered 4-Lane,2115.36,0.63147,PLM,
+PLM Not Metered 4-Lane,2129.787,0.65451,PLM,
+PLM Not Metered 4-Lane,2142.024,0.68108,PLM,
+PLM Not Metered 4-Lane,2148.552,0.71007,PLM,
+PLM Metered 3-Lane ,1531.712,0.00005,PLM,
+PLM Metered 3-Lane ,1592,0.00011,PLM,
+PLM Metered 3-Lane ,1595.456,0.00017,PLM,
+PLM Metered 3-Lane ,1712.16,0.00024,PLM,
+PLM Metered 3-Lane ,1831.2,0.00034,PLM,
+PLM Metered 3-Lane ,1835.736,0.00045,PLM,
+PLM Metered 3-Lane ,1863.84,0.00057,PLM,
+PLM Metered 3-Lane ,1888.752,0.0007,PLM,
+PLM Metered 3-Lane ,1895.2,0.00084,PLM,
+PLM Metered 3-Lane ,1931.104,0.00101,PLM,
+PLM Metered 3-Lane ,1932.196,0.00118,PLM,
+PLM Metered 3-Lane ,1944.096,0.00137,PLM,
+PLM Metered 3-Lane ,1947.288,0.00156,PLM,
+PLM Metered 3-Lane ,1955.328,0.00176,PLM,
+PLM Metered 3-Lane ,1955.712,0.00196,PLM,
+PLM Metered 3-Lane ,1959.532,0.00216,PLM,
+PLM Metered 3-Lane ,1964.172,0.00237,PLM,
+PLM Metered 3-Lane ,1967.472,0.00258,PLM,
+PLM Metered 3-Lane ,1971.236,0.0028,PLM,
+PLM Metered 3-Lane ,1976.344,0.00303,PLM,
+PLM Metered 3-Lane ,1979.52,0.00326,PLM,
+PLM Metered 3-Lane ,1980.528,0.00349,PLM,
+PLM Metered 3-Lane ,1987.16,0.00374,PLM,
+PLM Metered 3-Lane ,1988.064,0.00398,PLM,
+PLM Metered 3-Lane ,1992.38,0.00424,PLM,
+PLM Metered 3-Lane ,1995.552,0.0045,PLM,
+PLM Metered 3-Lane ,2007.32,0.00477,PLM,
+PLM Metered 3-Lane ,2008.656,0.00506,PLM,
+PLM Metered 3-Lane ,2008.656,0.00534,PLM,
+PLM Metered 3-Lane ,2008.72,0.00563,PLM,
+PLM Metered 3-Lane ,2012.608,0.00592,PLM,
+PLM Metered 3-Lane ,2020.144,0.00623,PLM,
+PLM Metered 3-Lane ,2020.16,0.00654,PLM,
+PLM Metered 3-Lane ,2020.872,0.00685,PLM,
+PLM Metered 3-Lane ,2028.632,0.00719,PLM,
+PLM Metered 3-Lane ,2031.36,0.00752,PLM,
+PLM Metered 3-Lane ,2032.112,0.00786,PLM,
+PLM Metered 3-Lane ,2040.104,0.00823,PLM,
+PLM Metered 3-Lane ,2043.68,0.0086,PLM,
+PLM Metered 3-Lane ,2048.2,0.00898,PLM,
+PLM Metered 3-Lane ,2055.28,0.00938,PLM,
+PLM Metered 3-Lane ,2056.308,0.00979,PLM,
+PLM Metered 3-Lane ,2059.2,0.0102,PLM,
+PLM Metered 3-Lane ,2059.36,0.01062,PLM,
+PLM Metered 3-Lane ,2060.112,0.01104,PLM,
+PLM Metered 3-Lane ,2068.416,0.0115,PLM,
+PLM Metered 3-Lane ,2071.104,0.01196,PLM,
+PLM Metered 3-Lane ,2076.516,0.01245,PLM,
+PLM Metered 3-Lane ,2079.228,0.01294,PLM,
+PLM Metered 3-Lane ,2079.228,0.01343,PLM,
+PLM Metered 3-Lane ,2083.14,0.01393,PLM,
+PLM Metered 3-Lane ,2084,0.01445,PLM,
+PLM Metered 3-Lane ,2087.4,0.01497,PLM,
+PLM Metered 3-Lane ,2088.32,0.0155,PLM,
+PLM Metered 3-Lane ,2091.32,0.01603,PLM,
+PLM Metered 3-Lane ,2092.584,0.01658,PLM,
+PLM Metered 3-Lane ,2092.584,0.01712,PLM,
+PLM Metered 3-Lane ,2099.328,0.0177,PLM,
+PLM Metered 3-Lane ,2099.568,0.01827,PLM,
+PLM Metered 3-Lane ,2112.92,0.01891,PLM,
+PLM Metered 3-Lane ,2115.48,0.01956,PLM,
+PLM Metered 3-Lane ,2116.928,0.02021,PLM,
+PLM Metered 3-Lane ,2120.58,0.02089,PLM,
+PLM Metered 3-Lane ,2123.184,0.02157,PLM,
+PLM Metered 3-Lane ,2123.844,0.02226,PLM,
+PLM Metered 3-Lane ,2127.224,0.02296,PLM,
+PLM Metered 3-Lane ,2131.892,0.02368,PLM,
+PLM Metered 3-Lane ,2135.98,0.02443,PLM,
+PLM Metered 3-Lane ,2139.54,0.0252,PLM,
+PLM Metered 3-Lane ,2140.736,0.02598,PLM,
+PLM Metered 3-Lane ,2143.596,0.02677,PLM,
+PLM Metered 3-Lane ,2148.16,0.02759,PLM,
+PLM Metered 3-Lane ,2152.2,0.02844,PLM,
+PLM Metered 3-Lane ,2156.22,0.0293,PLM,
+PLM Metered 3-Lane ,2156.42,0.03017,PLM,
+PLM Metered 3-Lane ,2163.876,0.03108,PLM,
+PLM Metered 3-Lane ,2164.912,0.032,PLM,
+PLM Metered 3-Lane ,2164.968,0.03293,PLM,
+PLM Metered 3-Lane ,2167.2,0.03386,PLM,
+PLM Metered 3-Lane ,2167.264,0.03479,PLM,
+PLM Metered 3-Lane ,2167.344,0.03572,PLM,
+PLM Metered 3-Lane ,2167.704,0.03666,PLM,
+PLM Metered 3-Lane ,2171.136,0.03761,PLM,
+PLM Metered 3-Lane ,2172.772,0.03859,PLM,
+PLM Metered 3-Lane ,2175.264,0.03957,PLM,
+PLM Metered 3-Lane ,2176.484,0.04058,PLM,
+PLM Metered 3-Lane ,2179.584,0.0416,PLM,
+PLM Metered 3-Lane ,2182.992,0.04264,PLM,
+PLM Metered 3-Lane ,2183.952,0.0437,PLM,
+PLM Metered 3-Lane ,2184.36,0.04476,PLM,
+PLM Metered 3-Lane ,2188.7,0.04584,PLM,
+PLM Metered 3-Lane ,2191.36,0.04693,PLM,
+PLM Metered 3-Lane ,2192.256,0.04804,PLM,
+PLM Metered 3-Lane ,2192.32,0.04916,PLM,
+PLM Metered 3-Lane ,2192.736,0.05028,PLM,
+PLM Metered 3-Lane ,2196.096,0.05141,PLM,
+PLM Metered 3-Lane ,2200.352,0.05257,PLM,
+PLM Metered 3-Lane ,2204.712,0.05377,PLM,
+PLM Metered 3-Lane ,2208.32,0.05501,PLM,
+PLM Metered 3-Lane ,2213.016,0.05629,PLM,
+PLM Metered 3-Lane ,2223.1,0.05763,PLM,
+PLM Metered 3-Lane ,2223.576,0.05898,PLM,
+PLM Metered 3-Lane ,2223.72,0.06033,PLM,
+PLM Metered 3-Lane ,2223.796,0.06169,PLM,
+PLM Metered 3-Lane ,2231.46,0.06311,PLM,
+PLM Metered 3-Lane ,2231.544,0.06453,PLM,
+PLM Metered 3-Lane ,2232.164,0.06597,PLM,
+PLM Metered 3-Lane ,2232.324,0.06741,PLM,
+PLM Metered 3-Lane ,2232.576,0.06887,PLM,
+PLM Metered 3-Lane ,2236.132,0.07034,PLM,
+PLM Metered 3-Lane ,2236.5,0.07183,PLM,
+PLM Metered 3-Lane ,2236.608,0.07331,PLM,
+PLM Metered 3-Lane ,2238.984,0.0748,PLM,
+PLM Metered 3-Lane ,2240.84,0.07632,PLM,
+PLM Metered 3-Lane ,2240.84,0.07784,PLM,
+PLM Metered 3-Lane ,2244.468,0.07939,PLM,
+PLM Metered 3-Lane ,2244.968,0.08095,PLM,
+PLM Metered 3-Lane ,2245.056,0.08252,PLM,
+PLM Metered 3-Lane ,2247.168,0.0841,PLM,
+PLM Metered 3-Lane ,2247.208,0.08568,PLM,
+PLM Metered 3-Lane ,2248.308,0.08727,PLM,
+PLM Metered 3-Lane ,2252.16,0.0889,PLM,
+PLM Metered 3-Lane ,2255.68,0.09056,PLM,
+PLM Metered 3-Lane ,2259.84,0.09226,PLM,
+PLM Metered 3-Lane ,2259.888,0.09396,PLM,
+PLM Metered 3-Lane ,2259.936,0.09567,PLM,
+PLM Metered 3-Lane ,2263.544,0.0974,PLM,
+PLM Metered 3-Lane ,2263.68,0.09913,PLM,
+PLM Metered 3-Lane ,2264.192,0.10089,PLM,
+PLM Metered 3-Lane ,2268.208,0.10268,PLM,
+PLM Metered 3-Lane ,2268.288,0.10447,PLM,
+PLM Metered 3-Lane ,2268.468,0.10627,PLM,
+PLM Metered 3-Lane ,2275.152,0.10816,PLM,
+PLM Metered 3-Lane ,2276.816,0.11007,PLM,
+PLM Metered 3-Lane ,2276.96,0.11201,PLM,
+PLM Metered 3-Lane ,2279.052,0.11397,PLM,
+PLM Metered 3-Lane ,2280.28,0.11596,PLM,
+PLM Metered 3-Lane ,2280.6,0.11796,PLM,
+PLM Metered 3-Lane ,2283.3,0.12,PLM,
+PLM Metered 3-Lane ,2283.384,0.12207,PLM,
+PLM Metered 3-Lane ,2286.976,0.12415,PLM,
+PLM Metered 3-Lane ,2287.24,0.12625,PLM,
+PLM Metered 3-Lane ,2292.832,0.12847,PLM,
+PLM Metered 3-Lane ,2296.044,0.13071,PLM,
+PLM Metered 3-Lane ,2296.8,0.13301,PLM,
+PLM Metered 3-Lane ,2297.016,0.13531,PLM,
+PLM Metered 3-Lane ,2299.828,0.13761,PLM,
+PLM Metered 3-Lane ,2299.9,0.13992,PLM,
+PLM Metered 3-Lane ,2300.292,0.14225,PLM,
+PLM Metered 3-Lane ,2300.452,0.14458,PLM,
+PLM Metered 3-Lane ,2300.5,0.14693,PLM,
+PLM Metered 3-Lane ,2304.12,0.14931,PLM,
+PLM Metered 3-Lane ,2306.952,0.15174,PLM,
+PLM Metered 3-Lane ,2308.088,0.15419,PLM,
+PLM Metered 3-Lane ,2308.26,0.15664,PLM,
+PLM Metered 3-Lane ,2308.34,0.15909,PLM,
+PLM Metered 3-Lane ,2311.232,0.16162,PLM,
+PLM Metered 3-Lane ,2313.036,0.16419,PLM,
+PLM Metered 3-Lane ,2315.352,0.16681,PLM,
+PLM Metered 3-Lane ,2315.352,0.16943,PLM,
+PLM Metered 3-Lane ,2315.48,0.17206,PLM,
+PLM Metered 3-Lane ,2315.48,0.17469,PLM,
+PLM Metered 3-Lane ,2316.78,0.17735,PLM,
+PLM Metered 3-Lane ,2318.976,0.18003,PLM,
+PLM Metered 3-Lane ,2319.76,0.18272,PLM,
+PLM Metered 3-Lane ,2324.04,0.1855,PLM,
+PLM Metered 3-Lane ,2324.136,0.18831,PLM,
+PLM Metered 3-Lane ,2328.432,0.19127,PLM,
+PLM Metered 3-Lane ,2328.464,0.19427,PLM,
+PLM Metered 3-Lane ,2328.48,0.19728,PLM,
+PLM Metered 3-Lane ,2331.448,0.20028,PLM,
+PLM Metered 3-Lane ,2332.288,0.20331,PLM,
+PLM Metered 3-Lane ,2332.8,0.20644,PLM,
+PLM Metered 3-Lane ,2334.948,0.20958,PLM,
+PLM Metered 3-Lane ,2336.4,0.21275,PLM,
+PLM Metered 3-Lane ,2336.96,0.21595,PLM,
+PLM Metered 3-Lane ,2337.024,0.21916,PLM,
+PLM Metered 3-Lane ,2339.064,0.2224,PLM,
+PLM Metered 3-Lane ,2339.14,0.22565,PLM,
+PLM Metered 3-Lane ,2339.2,0.22891,PLM,
+PLM Metered 3-Lane ,2339.4,0.23219,PLM,
+PLM Metered 3-Lane ,2339.648,0.23547,PLM,
+PLM Metered 3-Lane ,2340.096,0.23876,PLM,
+PLM Metered 3-Lane ,2341.056,0.24209,PLM,
+PLM Metered 3-Lane ,2343.328,0.24543,PLM,
+PLM Metered 3-Lane ,2343.348,0.24877,PLM,
+PLM Metered 3-Lane ,2343.5,0.25214,PLM,
+PLM Metered 3-Lane ,2347.632,0.25563,PLM,
+PLM Metered 3-Lane ,2347.944,0.25923,PLM,
+PLM Metered 3-Lane ,2355.216,0.26312,PLM,
+PLM Metered 3-Lane ,2360.852,0.26731,PLM,
+PLM Metered 3-Lane ,2360.96,0.27152,PLM,
+PLM Metered 3-Lane ,2363.136,0.27581,PLM,
+PLM Metered 3-Lane ,2363.136,0.28009,PLM,
+PLM Metered 3-Lane ,2364.768,0.28446,PLM,
+PLM Metered 3-Lane ,2364.892,0.28887,PLM,
+PLM Metered 3-Lane ,2367.456,0.29335,PLM,
+PLM Metered 3-Lane ,2367.456,0.29782,PLM,
+PLM Metered 3-Lane ,2368.56,0.30235,PLM,
+PLM Metered 3-Lane ,2371.68,0.307,PLM,
+PLM Metered 3-Lane ,2375.86,0.31188,PLM,
+PLM Metered 3-Lane ,2376.128,0.31683,PLM,
+PLM Metered 3-Lane ,2379.104,0.32185,PLM,
+PLM Metered 3-Lane ,2380.56,0.32699,PLM,
+PLM Metered 3-Lane ,2383.96,0.33229,PLM,
+PLM Metered 3-Lane ,2388.24,0.33785,PLM,
+PLM Metered 3-Lane ,2388.416,0.34342,PLM,
+PLM Metered 3-Lane ,2388.52,0.34903,PLM,
+PLM Metered 3-Lane ,2388.72,0.35464,PLM,
+PLM Metered 3-Lane ,2408.008,0.36136,PLM,
+PLM Metered 3-Lane ,2408.792,0.36816,PLM,
+PLM Metered 3-Lane ,2411.176,0.37503,PLM,
+PLM Metered 3-Lane ,2411.904,0.38229,PLM,
+PLM Metered 3-Lane ,2419.968,0.39032,PLM,
+PLM Metered 3-Lane ,2421.096,0.39834,PLM,
+PLM Metered 3-Lane ,2422.992,0.40636,PLM,
+PLM Metered 3-Lane ,2423.344,0.4146,PLM,
+PLM Metered 3-Lane ,2426.872,0.42361,PLM,
+PLM Metered 3-Lane ,2428.296,0.43276,PLM,
+PLM Metered 3-Lane ,2432.336,0.44221,PLM,
+PLM Metered 3-Lane ,2432.64,0.45183,PLM,
+PLM Metered 3-Lane ,2439.872,0.46198,PLM,
+PLM Metered 3-Lane ,2440.992,0.47213,PLM,
+PLM Metered 3-Lane ,2447.856,0.48336,PLM,
+PLM Metered 3-Lane ,2455.3,0.49567,PLM,
+PLM Metered 3-Lane ,2457.024,0.50827,PLM,
+PLM Metered 3-Lane ,2475.856,0.52414,PLM,
+PLM Metered 3-Lane ,2483.712,0.54,PLM,
+PLM Metered 3-Lane ,2487.84,0.55643,PLM,
+PLM Metered 3-Lane ,2495.752,0.57491,PLM,
+PLM Metered 3-Lane ,2500.572,0.59515,PLM,
+PLM Metered 3-Lane ,2504.928,0.61764,PLM,
+PLM Metered 3-Lane ,2513.144,0.64154,PLM,
+PLM Metered 3-Lane ,2515.464,0.66544,PLM,
+PLM Metered 3-Lane ,2531.388,0.69889,PLM,
+PLM Metered 3-Lane ,2531.88,0.73235,PLM,
+PLM Metered 3-Lane ,2603.48,0.86618,PLM,
+PLM Metered 3-Lane ,2616.528,1,PLM,
+PLM Metered 4-Lane,1302,0.00007,PLM,
+PLM Metered 4-Lane,1314,0.00015,PLM,
+PLM Metered 4-Lane,1319,0.00022,PLM,
+PLM Metered 4-Lane,1329,0.0003,PLM,
+PLM Metered 4-Lane,1335,0.00038,PLM,
+PLM Metered 4-Lane,1377,0.00047,PLM,
+PLM Metered 4-Lane,1380,0.00055,PLM,
+PLM Metered 4-Lane,1395,0.00064,PLM,
+PLM Metered 4-Lane,1455,0.00074,PLM,
+PLM Metered 4-Lane,1470,0.00085,PLM,
+PLM Metered 4-Lane,1473,0.00095,PLM,
+PLM Metered 4-Lane,1473,0.00106,PLM,
+PLM Metered 4-Lane,1491,0.00116,PLM,
+PLM Metered 4-Lane,1506,0.00128,PLM,
+PLM Metered 4-Lane,1506,0.00139,PLM,
+PLM Metered 4-Lane,1509,0.0015,PLM,
+PLM Metered 4-Lane,1512,0.00162,PLM,
+PLM Metered 4-Lane,1527,0.00174,PLM,
+PLM Metered 4-Lane,1530,0.00186,PLM,
+PLM Metered 4-Lane,1536,0.00198,PLM,
+PLM Metered 4-Lane,1545,0.0021,PLM,
+PLM Metered 4-Lane,1545,0.00223,PLM,
+PLM Metered 4-Lane,1554,0.00236,PLM,
+PLM Metered 4-Lane,1554,0.00248,PLM,
+PLM Metered 4-Lane,1557,0.00261,PLM,
+PLM Metered 4-Lane,1560,0.00274,PLM,
+PLM Metered 4-Lane,1560,0.00287,PLM,
+PLM Metered 4-Lane,1566,0.00301,PLM,
+PLM Metered 4-Lane,1572,0.00314,PLM,
+PLM Metered 4-Lane,1578,0.00328,PLM,
+PLM Metered 4-Lane,1584,0.00342,PLM,
+PLM Metered 4-Lane,1614,0.00357,PLM,
+PLM Metered 4-Lane,1614,0.00372,PLM,
+PLM Metered 4-Lane,1629,0.00388,PLM,
+PLM Metered 4-Lane,1629,0.00404,PLM,
+PLM Metered 4-Lane,1635,0.00421,PLM,
+PLM Metered 4-Lane,1635,0.00438,PLM,
+PLM Metered 4-Lane,1638,0.00454,PLM,
+PLM Metered 4-Lane,1638,0.00471,PLM,
+PLM Metered 4-Lane,1647,0.00488,PLM,
+PLM Metered 4-Lane,1656,0.00506,PLM,
+PLM Metered 4-Lane,1665,0.00525,PLM,
+PLM Metered 4-Lane,1665,0.00543,PLM,
+PLM Metered 4-Lane,1668,0.00562,PLM,
+PLM Metered 4-Lane,1668,0.00581,PLM,
+PLM Metered 4-Lane,1679,0.00601,PLM,
+PLM Metered 4-Lane,1682,0.00621,PLM,
+PLM Metered 4-Lane,1689,0.00642,PLM,
+PLM Metered 4-Lane,1697,0.00663,PLM,
+PLM Metered 4-Lane,1701,0.00685,PLM,
+PLM Metered 4-Lane,1704,0.00707,PLM,
+PLM Metered 4-Lane,1707,0.0073,PLM,
+PLM Metered 4-Lane,1707,0.00753,PLM,
+PLM Metered 4-Lane,1710,0.00776,PLM,
+PLM Metered 4-Lane,1716,0.00799,PLM,
+PLM Metered 4-Lane,1716,0.00823,PLM,
+PLM Metered 4-Lane,1725,0.00847,PLM,
+PLM Metered 4-Lane,1728,0.00872,PLM,
+PLM Metered 4-Lane,1731,0.00898,PLM,
+PLM Metered 4-Lane,1731,0.00923,PLM,
+PLM Metered 4-Lane,1734,0.00949,PLM,
+PLM Metered 4-Lane,1737,0.00975,PLM,
+PLM Metered 4-Lane,1741,0.01002,PLM,
+PLM Metered 4-Lane,1743,0.01029,PLM,
+PLM Metered 4-Lane,1743,0.01056,PLM,
+PLM Metered 4-Lane,1743,0.01083,PLM,
+PLM Metered 4-Lane,1749,0.0111,PLM,
+PLM Metered 4-Lane,1753,0.01139,PLM,
+PLM Metered 4-Lane,1755,0.01167,PLM,
+PLM Metered 4-Lane,1758,0.01197,PLM,
+PLM Metered 4-Lane,1762,0.01227,PLM,
+PLM Metered 4-Lane,1762,0.01256,PLM,
+PLM Metered 4-Lane,1765,0.01287,PLM,
+PLM Metered 4-Lane,1767,0.01318,PLM,
+PLM Metered 4-Lane,1770,0.01349,PLM,
+PLM Metered 4-Lane,1770,0.0138,PLM,
+PLM Metered 4-Lane,1773,0.01412,PLM,
+PLM Metered 4-Lane,1779,0.01445,PLM,
+PLM Metered 4-Lane,1782,0.01478,PLM,
+PLM Metered 4-Lane,1782,0.01512,PLM,
+PLM Metered 4-Lane,1785,0.01546,PLM,
+PLM Metered 4-Lane,1785,0.0158,PLM,
+PLM Metered 4-Lane,1788,0.01615,PLM,
+PLM Metered 4-Lane,1788,0.01649,PLM,
+PLM Metered 4-Lane,1790,0.01684,PLM,
+PLM Metered 4-Lane,1791,0.01719,PLM,
+PLM Metered 4-Lane,1792,0.01755,PLM,
+PLM Metered 4-Lane,1793,0.01791,PLM,
+PLM Metered 4-Lane,1794,0.01827,PLM,
+PLM Metered 4-Lane,1797,0.01863,PLM,
+PLM Metered 4-Lane,1798,0.019,PLM,
+PLM Metered 4-Lane,1801,0.01937,PLM,
+PLM Metered 4-Lane,1801,0.01975,PLM,
+PLM Metered 4-Lane,1803,0.02012,PLM,
+PLM Metered 4-Lane,1803,0.0205,PLM,
+PLM Metered 4-Lane,1806,0.02089,PLM,
+PLM Metered 4-Lane,1812,0.02129,PLM,
+PLM Metered 4-Lane,1812,0.02169,PLM,
+PLM Metered 4-Lane,1812,0.02209,PLM,
+PLM Metered 4-Lane,1815,0.0225,PLM,
+PLM Metered 4-Lane,1815,0.02291,PLM,
+PLM Metered 4-Lane,1818,0.02332,PLM,
+PLM Metered 4-Lane,1818,0.02374,PLM,
+PLM Metered 4-Lane,1824,0.02417,PLM,
+PLM Metered 4-Lane,1827,0.02461,PLM,
+PLM Metered 4-Lane,1827,0.02505,PLM,
+PLM Metered 4-Lane,1827,0.0255,PLM,
+PLM Metered 4-Lane,1831,0.02595,PLM,
+PLM Metered 4-Lane,1833,0.02641,PLM,
+PLM Metered 4-Lane,1836,0.02688,PLM,
+PLM Metered 4-Lane,1839,0.02736,PLM,
+PLM Metered 4-Lane,1839,0.02785,PLM,
+PLM Metered 4-Lane,1840,0.02834,PLM,
+PLM Metered 4-Lane,1840,0.02882,PLM,
+PLM Metered 4-Lane,1845,0.02933,PLM,
+PLM Metered 4-Lane,1845,0.02983,PLM,
+PLM Metered 4-Lane,1848,0.03035,PLM,
+PLM Metered 4-Lane,1848,0.03087,PLM,
+PLM Metered 4-Lane,1856,0.03142,PLM,
+PLM Metered 4-Lane,1857,0.03198,PLM,
+PLM Metered 4-Lane,1860,0.03255,PLM,
+PLM Metered 4-Lane,1860,0.03313,PLM,
+PLM Metered 4-Lane,1862,0.03372,PLM,
+PLM Metered 4-Lane,1867,0.03432,PLM,
+PLM Metered 4-Lane,1868,0.03492,PLM,
+PLM Metered 4-Lane,1871,0.03555,PLM,
+PLM Metered 4-Lane,1872,0.03618,PLM,
+PLM Metered 4-Lane,1874,0.03683,PLM,
+PLM Metered 4-Lane,1875,0.03747,PLM,
+PLM Metered 4-Lane,1876,0.03813,PLM,
+PLM Metered 4-Lane,1876,0.03878,PLM,
+PLM Metered 4-Lane,1877,0.03945,PLM,
+PLM Metered 4-Lane,1877,0.04011,PLM,
+PLM Metered 4-Lane,1881,0.0408,PLM,
+PLM Metered 4-Lane,1881,0.04149,PLM,
+PLM Metered 4-Lane,1884,0.0422,PLM,
+PLM Metered 4-Lane,1884,0.04291,PLM,
+PLM Metered 4-Lane,1885,0.04363,PLM,
+PLM Metered 4-Lane,1887,0.04435,PLM,
+PLM Metered 4-Lane,1887,0.04507,PLM,
+PLM Metered 4-Lane,1887,0.0458,PLM,
+PLM Metered 4-Lane,1890,0.04654,PLM,
+PLM Metered 4-Lane,1893,0.04731,PLM,
+PLM Metered 4-Lane,1893,0.04808,PLM,
+PLM Metered 4-Lane,1894,0.04886,PLM,
+PLM Metered 4-Lane,1896,0.04964,PLM,
+PLM Metered 4-Lane,1896,0.05043,PLM,
+PLM Metered 4-Lane,1896,0.05121,PLM,
+PLM Metered 4-Lane,1896,0.052,PLM,
+PLM Metered 4-Lane,1896,0.05279,PLM,
+PLM Metered 4-Lane,1899,0.0536,PLM,
+PLM Metered 4-Lane,1899,0.05442,PLM,
+PLM Metered 4-Lane,1902,0.05524,PLM,
+PLM Metered 4-Lane,1902,0.05607,PLM,
+PLM Metered 4-Lane,1905,0.05693,PLM,
+PLM Metered 4-Lane,1906,0.0578,PLM,
+PLM Metered 4-Lane,1906,0.05867,PLM,
+PLM Metered 4-Lane,1908,0.05954,PLM,
+PLM Metered 4-Lane,1911,0.06043,PLM,
+PLM Metered 4-Lane,1911,0.06134,PLM,
+PLM Metered 4-Lane,1911,0.06226,PLM,
+PLM Metered 4-Lane,1914,0.06319,PLM,
+PLM Metered 4-Lane,1917,0.06414,PLM,
+PLM Metered 4-Lane,1921,0.06515,PLM,
+PLM Metered 4-Lane,1922,0.06616,PLM,
+PLM Metered 4-Lane,1923,0.06719,PLM,
+PLM Metered 4-Lane,1924,0.06822,PLM,
+PLM Metered 4-Lane,1924,0.06926,PLM,
+PLM Metered 4-Lane,1926,0.07031,PLM,
+PLM Metered 4-Lane,1926,0.07135,PLM,
+PLM Metered 4-Lane,1929,0.07245,PLM,
+PLM Metered 4-Lane,1929,0.07355,PLM,
+PLM Metered 4-Lane,1929,0.07465,PLM,
+PLM Metered 4-Lane,1931,0.07576,PLM,
+PLM Metered 4-Lane,1931,0.07688,PLM,
+PLM Metered 4-Lane,1932,0.07799,PLM,
+PLM Metered 4-Lane,1932,0.07912,PLM,
+PLM Metered 4-Lane,1932,0.08025,PLM,
+PLM Metered 4-Lane,1932,0.08138,PLM,
+PLM Metered 4-Lane,1934,0.08253,PLM,
+PLM Metered 4-Lane,1935,0.08369,PLM,
+PLM Metered 4-Lane,1935,0.08485,PLM,
+PLM Metered 4-Lane,1935,0.08601,PLM,
+PLM Metered 4-Lane,1937,0.0872,PLM,
+PLM Metered 4-Lane,1940,0.08843,PLM,
+PLM Metered 4-Lane,1943,0.08971,PLM,
+PLM Metered 4-Lane,1947,0.09108,PLM,
+PLM Metered 4-Lane,1950,0.09251,PLM,
+PLM Metered 4-Lane,1951,0.09394,PLM,
+PLM Metered 4-Lane,1955,0.09544,PLM,
+PLM Metered 4-Lane,1955,0.09693,PLM,
+PLM Metered 4-Lane,1956,0.09845,PLM,
+PLM Metered 4-Lane,1959,0.10001,PLM,
+PLM Metered 4-Lane,1959,0.10158,PLM,
+PLM Metered 4-Lane,1963,0.10323,PLM,
+PLM Metered 4-Lane,1965,0.1049,PLM,
+PLM Metered 4-Lane,1968,0.10664,PLM,
+PLM Metered 4-Lane,1971,0.10847,PLM,
+PLM Metered 4-Lane,1974,0.11034,PLM,
+PLM Metered 4-Lane,1976,0.11228,PLM,
+PLM Metered 4-Lane,1977,0.11426,PLM,
+PLM Metered 4-Lane,1978,0.11628,PLM,
+PLM Metered 4-Lane,1980,0.11832,PLM,
+PLM Metered 4-Lane,1980,0.12037,PLM,
+PLM Metered 4-Lane,1980,0.12244,PLM,
+PLM Metered 4-Lane,1984,0.12462,PLM,
+PLM Metered 4-Lane,1986,0.12682,PLM,
+PLM Metered 4-Lane,1989,0.12905,PLM,
+PLM Metered 4-Lane,1989,0.1313,PLM,
+PLM Metered 4-Lane,1989,0.13357,PLM,
+PLM Metered 4-Lane,1989,0.13584,PLM,
+PLM Metered 4-Lane,1992,0.13814,PLM,
+PLM Metered 4-Lane,1995,0.14053,PLM,
+PLM Metered 4-Lane,1998,0.14305,PLM,
+PLM Metered 4-Lane,2001,0.14565,PLM,
+PLM Metered 4-Lane,2004,0.1484,PLM,
+PLM Metered 4-Lane,2007,0.15124,PLM,
+PLM Metered 4-Lane,2008,0.15415,PLM,
+PLM Metered 4-Lane,2013,0.15732,PLM,
+PLM Metered 4-Lane,2019,0.16071,PLM,
+PLM Metered 4-Lane,2025,0.16445,PLM,
+PLM Metered 4-Lane,2028,0.16839,PLM,
+PLM Metered 4-Lane,2032,0.17268,PLM,
+PLM Metered 4-Lane,2034,0.17699,PLM,
+PLM Metered 4-Lane,2037,0.18177,PLM,
+PLM Metered 4-Lane,2043,0.18699,PLM,
+PLM Metered 4-Lane,2046,0.19237,PLM,
+PLM Metered 4-Lane,2046,0.19794,PLM,
+PLM Metered 4-Lane,2055,0.20426,PLM,
+PLM Metered 4-Lane,2060,0.211,PLM,
+PLM Metered 4-Lane,2063,0.21804,PLM,
+PLM Metered 4-Lane,2070,0.22556,PLM,
+PLM Metered 4-Lane,2070,0.23308,PLM,
+PLM Metered 4-Lane,2076,0.24142,PLM,
+PLM Metered 4-Lane,2091,0.25241,PLM,
+PLM Metered 4-Lane,2092,0.26374,PLM,
+PLM Metered 4-Lane,2092,0.27507,PLM,
+PLM Metered 4-Lane,2097,0.28778,PLM,
+PLM Metered 4-Lane,2100,0.30073,PLM,
+PLM Metered 4-Lane,2103,0.31444,PLM,
+PLM Metered 4-Lane,2127,0.33984,PLM,
+PLM Metered 4-Lane,2157,0.3811,PLM,
+PLM Metered 4-Lane,2172,0.4287,PLM,

@@ -1,0 +1,391 @@
+---Houston, TX
+title: "Survival"
+author: "Amin Asgharzadeh"
+date: "May 14, 2018"
+output: html_document
+---
+
+```{r , include=FALSE}
+library(survival)
+library(survminer)
+library(reshape)
+library(extrafont)
+library(ggplot2)
+loadfonts(device = "win")
+
+
+```
+
+
+```{r , include=FALSE}
+#setwd("C:/Users/m522a270/OneDrive - The University of Kansas/Amin/Thesis/Paper #Lane/Analysis/Survival Function")
+setwd("E:/One/OneDrive - The University of Kansas/Amin/Thesis/Paper #Lane/Analysis/Survival Function") #home
+TT <- read.csv("SURV.csv")
+TT$VOL <- as.numeric(TT$VOL)
+TT$GROUP <- as.factor(TT$GROUP)
+```
+
+
+```{r}
+SURV <- Surv(time = TT$VOL, event =  TT$EVENT)
+KMNPA <- survfit(SURV ~ TT$GROUP , type="kaplan-meier") # For each group
+
+ggsurvplot(KMNPA , conf.int = TRUE , data = TT, xlim = c(1000,2750), surv.median.line = "none", legend.title = "Site" ,  xlab = "Flow (pc/hr/ln)", censor = FALSE, break.x.by = 250
+,ggtheme = theme_classic(base_family = "Arial")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+```
+
+### kalman - Meier Non-Parametric survival Method
+
+#### 3-Lane sites SUBSETS (NOT METERED)
+
+```{r}
+
+D1 <- subset(TT,  GROUP == "Q" |  GROUP == "S"|  GROUP == "K")
+S1 <- Surv(time = D1$VOL, event =  D1$EVENT)
+
+F1 <- survfit(S1 ~ D1$GROUP, type="kaplan-meier")
+F1AGG <- survfit(S1 ~ 1, type="kaplan-meier")
+
+ggsurvplot(F1 , conf.int = TRUE , data = D1, xlim = c(1000,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("Q","S","K") , xlab = "Flow (pc/hr/ln)", censor = FALSE,  ggtheme = theme_classic(base_family = "Arial"),legend = "bottom", break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+ggsurvplot(F1AGG , conf.int = TRUE , data = D1, xlim = c(1000,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("AGG 3-LANE (NOT METERED)") , xlab = "Flow (pc/hr/ln)", censor = FALSE ,legend = "bottom", break.time.by = 250
+,ggtheme = theme_classic(base_family = "Arial") 
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+survdiff( S1 ~ GROUP , data = D1) 
+```
+
+#### 3-Lane sites SUBSETS (METERED)
+
+```{r}
+
+D1 <- subset(TT,  GROUP == "M")
+S1 <- Surv(time = D1$VOL, event =  D1$EVENT)
+
+F1 <- survfit(S1 ~ D1$GROUP, type="kaplan-meier")
+
+
+ggsurvplot(F1 , conf.int = TRUE , data = D1, xlim = c(1000,3000), surv.median.line = "none", legend.title = "Site" , legend.labs= c("M") , xlab = "Flow (pc/hr/ln)", censor = FALSE,  ggtheme = theme_classic(base_family = "Arial"),legend = "none", break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+```
+
+#### 4-Lane sites SUBSETS (METERED)
+```{r}
+
+D1 <- subset(TT, GROUP == "L" | GROUP == "U")
+S1 <- Surv(time = D1$VOL, event =  D1$EVENT)
+
+F1 <- survfit(S1 ~ D1$GROUP, type="kaplan-meier")
+F1AGG <- survfit(S1 ~ 1, type="kaplan-meier")
+
+ggsurvplot(F1 , conf.int = TRUE , data = D1, xlim = c(1000,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("L","U") , xlab = "Flow (pc/hr/ln)", censor = FALSE,  ggtheme = theme_classic(base_family = "Arial"), title = "Metered 4-Lane Sites",legend = "bottom", break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+
+
+ggsurvplot(F1AGG , conf.int = TRUE , data = D1, xlim = c(1000,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("AGG 3-LANE (NOT METERED)") , xlab = "Flow (pc/hr/ln)", censor = FALSE , title = "Aggragated Metered 4-Lane Sites",legend = "bottom", break.time.by = 250
+,ggtheme = theme_classic(base_family = "Arial")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+survdiff( S1 ~ GROUP , data = D1) 
+```
+
+
+#### 4-Lane sites SUBSETS (NOT METERED)
+```{r}
+D2 <- subset(TT,  GROUP == "F" | GROUP == "V")
+S2 <- Surv(time = D2$VOL, event =  D2$EVENT)
+
+F2 <- survfit(S2 ~ D2$GROUP, type="kaplan-meier")
+F2AGG <- survfit(S2 ~ 1, type="kaplan-meier")
+
+ggsurvplot(F2 , conf.int = TRUE  , data = D2, xlim = c(1250,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("F","V") , xlab = "Flow (pc/hr/ln)", censor = FALSE ,legend = "bottom", break.time.by = 250
+# , title = "Unmetered 4-Lane sites "
+,ggtheme = theme_classic(base_family = "Arial")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+ggsurvplot(F2AGG , conf.int = TRUE  , data = D2, xlim = c(1250,2500), surv.median.line = "none", legend.title = "Site" , legend.labs= c("AGG Unmetered 3-Lane Sites") , xlab = "Flow (pc/hr/ln)", censor = FALSE ,legend = "bottom", break.time.by = 250
+# , title = "Aggragated 4-Lane sites (NOT METERED)"
+,ggtheme = theme_classic(base_family = "Arial")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+
+survdiff(S2 ~ GROUP, data = D2) 
+```
+
+#### 5-Lane (4+1)
+
+```{r}
+
+D3 <- subset(TT, GROUP == "A" | GROUP == "N" | GROUP == "R" )
+
+S3 <- Surv(time = D3$VOL, event =  D3$EVENT)
+F3 <- survfit(S3 ~ D3$LANE , type="kaplan-meier")
+
+
+ggsurvplot(F3 , conf.int = TRUE , data = D3, xlim = c(1000,2250), surv.median.line = "none", legend.title = "",
+legend.labs= c("5-Lanes (3+2)" , "5-Lanes (4+1)" , "5-Lanes (4+1) (Followed by Lane Drop)"  ) , 
+xlab = "Flow (pc/hr/ln)", censor = FALSE , legend = c(0.29, 0.8) , title = "" , ylab = "Breakdown Probability"
+,ggtheme = theme_classic(base_family = "Arial"), break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(10, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event",palette = c("#AFAFAF", "#5C5C5C" , "#000000"))
+
+ggsave("5LANE.png", width = 6, height = 4)
+survdiff( S3 ~ LANE , data = D3) 
+
+```
+
+#### 5-Lane (3+2)
+
+```{r}
+
+D3 <- subset(TT, GROUP == "R")
+S3 <- Surv(time = D3$VOL, event =  D3$EVENT)
+
+F3 <- survfit(S3 ~ D3$GROUP, type="kaplan-meier")
+F3AGG <- survfit(S3 ~ 1, type="kaplan-meier")
+
+ggsurvplot(F3 , conf.int = TRUE , data = D3, xlim = c(1000,2250), surv.median.line = "none", legend.title = "Site" , legend.labs= c("R") , xlab = "Flow (pc/hr/ln)", censor = FALSE , legend = "bottom" , title = "5-Lane Site (3 Upstream + 2 On-ramp)"
+,ggtheme = theme_classic(base_family = "Arial"), break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")   
+
+
+
+ggsurvplot(F3AGG , conf.int = TRUE  , data = D3, xlim = c(1000,2250), surv.median.line = "none", legend.title = "Site" , legend.labs= c("AGG 5-LANE ") , xlab = "Flow (pc/hr/ln)", censor = FALSE , legend = "bottom" , title = "5-Lane Site (3 Upstream + 2 On-ramp)"
+,ggtheme = theme_classic(base_family = "Arial"), break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")  
+
+```
+
+#### All sites Aggragated Comparison 
+
+```{r}
+
+ALLAGG  <- subset(TT, GROUP == "Q" | GROUP == "S" |GROUP == "K" | GROUP == "M" |GROUP == "L" | GROUP == "U" | GROUP == "F" | GROUP == "V" |GROUP == "A" |GROUP == "N" |GROUP == "R" |GROUP == "I"  )
+
+
+## METERED ?? 
+NOT_METERED <- subset(ALLAGG, METER == 1)
+METERED     <- subset(ALLAGG, METER == 2)
+
+THREE       <- subset(ALLAGG, LANE == "3-Lane")
+FOUR        <- subset(ALLAGG, LANE == "4-Lane")
+TFTF <-        subset(ALLAGG, LANE == "3-Lane" | LANE == "4-Lane" )
+
+SGALL <- Surv(time = ALLAGG$VOL,      event =  ALLAGG$EVENT)        #SURV for All sites
+SGNM  <- Surv(time = NOT_METERED$VOL, event =  NOT_METERED$EVENT)   #SURV for NOT METERED sites
+SGM   <- Surv(time = METERED$VOL,     event =  METERED$EVENT)       #SURV for METERED sites
+S3L   <- Surv(time = THREE$VOL,       event =  THREE$EVENT)         #SURV for 3-Lane sites
+S4L   <- Surv(time = FOUR$VOL,        event =  FOUR$EVENT)          #SURV for 4-Lane sites
+S34L  <- Surv(time = TFTF$VOL,        event =  TFTF$EVENT )         # SURV for 4,3-Lane Sites
+
+
+FIT_NM     <- survfit(SGNM  ~ NOT_METERED$LANE, type="kaplan-meier")    # Fit for  NOT METERED Sites categorized by LANES
+FIT_M      <- survfit(SGM   ~ METERED$LANE    , type="kaplan-meier")    # Fit for  METERED Sites categorized by LANES
+FIT_LANE   <- survfit(SGALL ~ ALLAGG$Type     , type="kaplan-meier")    # Fit for  METERED Sites categorized by LANES
+
+FIT_3   <- survfit(S3L ~ THREE$METER      , type="kaplan-meier")    # Fit for  3-Lane Sites categorized by LANES
+FIT_4   <- survfit(S4L ~ FOUR $METER      , type="kaplan-meier")    # Fit for  4-Lane  Sites categorized by LANES
+FIT_34  <- survfit(S34L ~ TFTF$Type       , type="kaplan-meier")
+
+ggsurvplot(FIT_NM , conf.int = TRUE  , data = NOT_METERED, xlim = c(1250,2500), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = "right", ylim = c(0,1) , break.time.by = 250 , linetype = "strata"
+#,title = "Aggragated Survival for Not Metered Sites" 
+,legend.labs = c("3-Lane" , "4-Lane (Followed by Lane Drop)" , "4-Lane"  , "5-Lane (3+2)" , "5-Lane (4+1)" , "5-Lane (4+1) (Followed by Lane Drop)") 
+,palette = c("#C0C0C0", "#A0A0A0" , "#808080" , "#606060" , "#404040" , "#000000" )
+,ggtheme = theme_classic(base_family = "Aerial")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(10, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event" , legend.key.width = unit(1, "cm")) 
+
+ggsave("Not Metered Sites.png",  width = 8, height = 4)
+survdiff( SGNM ~ LANE , data = NOT_METERED) 
+
+
+ggsurvplot(FIT_M , conf.int = TRUE , data = METERED, xlim = c(1000,3000), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = c(0.25,0.6)  , break.time.by = 500 #, title = "Aggragated Survival for Metered Sites"
+,ggtheme = theme_classic(base_family = "Aerial"), palette = c("#2E9FDF" , "#393939"), ylim = c(0,1)
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"),
+legend.labs = c("Three-Lane" , "Four-Lane"), fun = "event")     
+
+ggsave("Metered.png", width = 5, height = 3.75)
+survdiff( SGM ~ LANE , data = METERED) 
+
+
+ggsurvplot(FIT_LANE , conf.int = TRUE , data = ALLAGG, xlim = c(1000,2750), surv.median.line = "none", legend.title = " " , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE ,legend = c(0.25,0.6) , ylim = c(0,1), break.time.by = 250
+#, legend.labs = c("Unmetered" , "Metered"), palette = c("#2E9FDF" , "#393939")
+#, title = "Aggragated Survival for All Sites"
+,ggtheme = theme_classic(base_family = "Aerial")
+,font.x = c(12, "plain", "black")
+,font.subtitle = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"), fun = "event")
+
+ggsave("ALL TYPE.png",  width = 6, height = 4)
+
+
+
+ggsurvplot(FIT_3 , conf.int = TRUE , data = THREE, xlim = c(1000,2750), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = c(0.25,0.6)  #, title = "Aggragated Survival for 3-Lane Sites"
+,ggtheme = theme_classic(base_family = "Aerial"), palette = c("#2E9FDF" , "#393939"), ylim = c(0,1), break.time.by = 250
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black"),
+legend.labs = c("Not Metered" , "Metered"), fun = "event")     
+
+ggsave("THREE_LANES.png",  width = 5, height = 4)
+survdiff( S3L ~ METER , data = THREE) 
+
+ggsurvplot(FIT_4 , conf.int = TRUE , data = FOUR, xlim = c(1000,2750), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = c(0.25,0.6), break.time.by = 250  #, title = "Aggragated Survival for 4-Lane Sites"
+,ggtheme = theme_classic(base_family = "Aerial"), palette = c("#2E9FDF" , "#393939"), ylim = c(0,1)
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(12, "plain", "black")
+,font.tickslab = c(12, "plain", "black")
+,legend.labs = c("Not Metered" , "Metered"), fun = "event")    
+
+ggsave("FOUR_LANES.png", width = 5, height = 4)
+survdiff( S4L ~ METER , data = FOUR) 
+
+
+ggsurvplot(FIT_34 , conf.int = TRUE , data = TFTF, xlim = c(1500,2750), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = c(0.25,0.85), linetype = "strata",break.time.by = 250  #, title = "Aggragated Survival for 4-Lane Sites"
+,ggtheme = theme_classic(base_family = "Aerial"), palette = c("#C0C0C0" , "#808080","#404040" , "#000000"), ylim = c(0,1)
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(10, "plain", "black")
+,font.tickslab = c(12, "plain", "black")
+,legend.labs = c("Three-Lane Metered" , "Three-Lane Non-Metered" , "Four-Lane Metered" , "Four-Lane Non-Metered")
+, fun = "event")    
+
+ggsave("FOURTHREE.png", width = 5, height = 4)
+
+```
+
+
+
+```{r}
+ALL4LANE  <- subset(TT, GROUP == "I" | GROUP == "G" |GROUP == "F" | GROUP == "V")
+
+
+LANE4   <- Surv(time = ALL4LANE$VOL, event =ALL4LANE$EVENT)            #SURV for All sites
+FITL4   <- survfit(LANE4  ~ ALL4LANE$LANE, type="kaplan-meier")    # Fit for  NOT METERED Sites categorized by LANES
+
+ggsurvplot(FITL4 , conf.int = TRUE , data = ALL4LANE, xlim = c(1000,2500), surv.median.line = "none", legend.title = ""  , xlab = "Flow Rate (pc/hr/ln)", ylab = "Breakdown Probability", censor = FALSE , legend = c(0.3,0.6), break.time.by = 250  #, title = "Survival for 4-Lane Sites"
+,ggtheme = theme_classic(base_family = "Aerial"), ylim = c(0,1)
+,legend.labs = c("Followed by Lane Addition" , "Followed by Lane Drop" , "Same Number of Lanes")
+,palette = c("#AFAFAF", "#5C5C5C" , "#000000")
+,font.x = c(12, "plain", "black")
+,font.y = c(12, "plain", "black")
+,font.title = c(12, "plain", "black")
+,font.legend = c(10, "plain", "black")
+,font.tickslab = c(12, "plain", "black")
+, fun = "event")
+
+ggsave("FOUR_ALL.png", width = 5, height = 4)
+survdiff(LANE4 ~ LANE , data = ALL4LANE)
+```
+
+### Parametric Weibull method for Breakdown Probability Function
+
+```{r}
+W <- read.csv("Parametric.csv")
+str(W)
+
+ggplot(W , aes(x = Vol, y= Prob, group = Site)) + geom_line(aes(linetype = Site , size = Site, color = Site)) +
+theme_classic() +
+scale_y_continuous(name = "Breakdown Probability" , limits = c(0,1)) +
+scale_x_continuous(name = "Flow (pc/hr/ln) "  , limits = c(1000,3000) , breaks = seq(1000,3000,250))+
+scale_color_manual(values = c("#4DFF00", "#00DEFF" , "#959595" , "#E095FF" , "#4D4D4D" , "#218B00" , "#0000C9" , "#AC2596") , labels = c("PLM Metered 3-Lane" , "PLM Metered 4-Lane", "PLM Not Metered 3-Lane", "PLM Not Metered 4-Lane" , "Weibull Not Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Not Metered 4-Lane")) +
+scale_linetype_manual( values = c("dashed" , "dashed", "dashed", "dashed" ,"solid" , "solid" , "solid", "solid") , labels = c("PLM Metered 3-Lane" , "PLM Metered 4-Lane", "PLM Not Metered 3-Lane", "PLM Not Metered 4-Lane" , "Weibull Not Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Not Metered 4-Lane"))+
+scale_size_manual(values = c(1,1,1,1,0.5,0.5,0.5,0.5) , labels = c("PLM Metered 3-Lane" , "PLM Metered 4-Lane", "PLM Not Metered 3-Lane", "PLM Not Metered 4-Lane" , "Weibull Not Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Not Metered 4-Lane"))+
+theme(text = element_text(family="Arial" ,size=10 , color = "black"), axis.text.x = element_text(family="Arial" ,angle=0 ,size =10 , color = "black", hjust = 1), axis.text.y = element_text(family="Arial" ,size =10 , color = "black")) + 
+#ggtitle("Aggragated Density Plot for Three, Four, and Five-Lane Sites") +
+
+theme(legend.text = element_text(size = 10 , color = "black")  , legend.title = element_blank(),  legend.position = c(0.2,0.5), legend.key.width = unit(1, "cm")) +
+
+
+ggsave("WEIBULL.png", width = 7, height = 5)
+WW <- subset(W, Type == "Weilbull")
+
+ggplot(WW , aes(x = Vol, y= Prob, group = Site)) + geom_line(aes(color = Site), size = 1.1) +
+theme_classic() +
+scale_y_continuous(name = "Breakdown Probability" , limits = c(0,1), expand = c(0, 0)) +
+scale_x_continuous(name = "Flow (pc/hr/ln) "  , limits = c(1000,3000) , breaks = seq(1000,3000,250))+
+scale_color_manual(values = c("#000000", "#606060" , "#A0A0A0" , "#E0E0E0") ,
+labels = c("Weibull Non-Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Non-Metered 4-Lane")) +
+#scale_linetype_manual( values = c("dashed" , "dashed", "dashed", "dashed" ,"solid" , "solid" , "solid", "solid") , labels = c("PLM Metered 3-Lane" , "PLM Metered 4-Lane", "PLM Not Metered 3-Lane", "PLM Not Metered 4-Lane" , "Weibull Not Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Not Metered 4-Lane"))+
+#scale_size_manual(values = c(1,1,1,1,0.5,0.5,0.5,0.5) , labels = c("PLM Metered 3-Lane" , "PLM Metered 4-Lane", "PLM Not Metered 3-Lane", "PLM Not Metered 4-Lane" , "Weibull Not Metered 3-Lane" , "Weibull Metered 3-Lane", "Weibull Metered 4-Lane", "Weibull Not Metered 4-Lane"))+
+theme(text = element_text(family="Arial" ,size=12 , color = "black"), axis.text.x = element_text(family="Arial" ,angle=0 ,size =12 , color = "black", hjust = 1), axis.text.y = element_text(family="Arial" ,size =12 , color = "black")) + 
+#ggtitle("Aggragated Density Plot for Three, Four, and Five-Lane Sites") +
+
+theme(legend.text = element_text(size = 10 , color = "black")  , legend.title = element_blank(),  legend.position = c(0.25,0.5), legend.key.width = unit(1, "cm")) +
+
+
+ggsave("WEIBULL2.png", width = 6, height = 4)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
